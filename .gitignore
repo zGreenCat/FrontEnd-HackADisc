@@ -1,0 +1,40 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+
+# === Entorno Virtual ===
+venv/
+env/
+ENV/
+.venv/
+
+# === Streamlit Cache ===
+.streamlit/config.toml
+.streamlit/credentials.toml
+.streamlit/*.json
+.streamlit/*.lock
+.streamlit/cache/
+
+# === Archivos temporales o de pruebas ===
+*.tmp
+*.bak
+*.swp
+*.~*
+
+# === VSCode ===
+.vscode/
+.settings/
+
+# === Jupyter Notebooks temporales (si usas) ===
+.ipynb_checkpoints/
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
