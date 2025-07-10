@@ -46,13 +46,43 @@ ventas_filtradas = ventas[ventas["EsValida"]].copy()
 ventas_filtradas["Mes"] = ventas_filtradas["FechaInicio"].dt.to_period("M").astype(str)
 
 # ------------------------ LAYOUT PRINCIPAL ------------------------
-col_izq, col_der = st.columns([1.5, 3.5])  
+col_izq, col_der = st.columns([3, 3])  
 
 # -------- PANEL IZQUIERDO --------
 with col_izq:
-    st.markdown("### 📂 Dataset actual")
-    st.dataframe(ventas_filtradas.head(10), height=200)
-    
+    st.markdown("## 📊 Estadísticas Generales")
+
+    # Filtro de búsqueda
+    filtro = st.text_input("🔍 Filtro de búsqueda (código, cliente o líder)")
+
+    # Tabla con columnas solicitadas
+    tabla_estadisticas = ventas_filtradas[["CodigoCotizacion", "Cliente", "LiderComercial"]].drop_duplicates().copy()
+    tabla_estadisticas["% pago exitoso"] = ""   # Placeholder para el modelo
+    tabla_estadisticas["Prom t demora"] = ""    # Placeholder para el modelo
+
+    # Renombrar columnas para mostrar encabezados personalizados
+    tabla_estadisticas.rename(columns={
+        "CodigoCotizacion": "Código Cotización",
+        "Cliente": "Cliente",
+        "LiderComercial": "Líder Comercial"
+    }, inplace=True)
+
+    # Filtro por texto libre
+    if filtro:
+        filtro_lower = filtro.lower()
+        tabla_estadisticas = tabla_estadisticas[
+            tabla_estadisticas["Código Cotización"].astype(str).str.lower().str.contains(filtro_lower)
+            | tabla_estadisticas["Cliente"].str.lower().str.contains(filtro_lower)
+            | tabla_estadisticas["Líder Comercial"].str.lower().str.contains(filtro_lower)
+        ]
+
+    # Mostrar tabla
+    st.dataframe(
+        tabla_estadisticas,
+        use_container_width=True,
+        height=420
+    )
+
     st.divider()
     st.markdown("### 📤 Subir nuevos datos")
 
