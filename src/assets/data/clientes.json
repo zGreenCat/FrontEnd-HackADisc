@@ -1,0 +1,3089 @@
+{
+    "clientes": [
+        {
+            "IdCliente": 246,
+            "NombreCliente": "METSO",
+            "total_ventas": 1216,
+            "total_sence": 29
+        },
+        {
+            "IdCliente": 856,
+            "NombreCliente": "CONSORCIO VOB",
+            "total_ventas": 905,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 226,
+            "NombreCliente": "KOMATSU CHILE S.A",
+            "total_ventas": 714,
+            "total_sence": 18
+        },
+        {
+            "IdCliente": 259,
+            "NombreCliente": "MPM",
+            "total_ventas": 575,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 282,
+            "NombreCliente": "Promet Montajes SpA.",
+            "total_ventas": 397,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 200,
+            "NombreCliente": "ICV",
+            "total_ventas": 307,
+            "total_sence": 86
+        },
+        {
+            "IdCliente": 386,
+            "NombreCliente": "AKASA SPA",
+            "total_ventas": 375,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1092,
+            "NombreCliente": "AMECO CHILE S.AAMECO CHILE S.A",
+            "total_ventas": 328,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 317,
+            "NombreCliente": "SK INDUSTRIAL S.A",
+            "total_ventas": 305,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 533,
+            "NombreCliente": "DL&C",
+            "total_ventas": 281,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 594,
+            "NombreCliente": "BERLIAM SPA",
+            "total_ventas": 261,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 418,
+            "NombreCliente": "Inversiones Farias y Farias SPA",
+            "total_ventas": 249,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 153,
+            "NombreCliente": "ECORA",
+            "total_ventas": 244,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 223,
+            "NombreCliente": "JOY GLOBAL",
+            "total_ventas": 226,
+            "total_sence": 8
+        },
+        {
+            "IdCliente": 412,
+            "NombreCliente": "THIESS CHILE SPA",
+            "total_ventas": 146,
+            "total_sence": 55
+        },
+        {
+            "IdCliente": 753,
+            "NombreCliente": "FAM AMERICA LATINA MAQUINARIAS LIMITADA",
+            "total_ventas": 180,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 273,
+            "NombreCliente": "PARTICULAR",
+            "total_ventas": 153,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 333,
+            "NombreCliente": "STEEL INGENIERIA S.A.",
+            "total_ventas": 153,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 227,
+            "NombreCliente": "KONECRANES",
+            "total_ventas": 149,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 172,
+            "NombreCliente": "FINNING",
+            "total_ventas": 143,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 930,
+            "NombreCliente": "WORLD CLASS",
+            "total_ventas": 138,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 309,
+            "NombreCliente": "SGS MINERALS S.A.",
+            "total_ventas": 116,
+            "total_sence": 18
+        },
+        {
+            "IdCliente": 683,
+            "NombreCliente": "Minera Lomas Bayas",
+            "total_ventas": 131,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 494,
+            "NombreCliente": "VECCHIOLA",
+            "total_ventas": 125,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 405,
+            "NombreCliente": "FCAB",
+            "total_ventas": 113,
+            "total_sence": 8
+        },
+        {
+            "IdCliente": 835,
+            "NombreCliente": "CONSTRUCTORA GMT LTDA",
+            "total_ventas": 115,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 137,
+            "NombreCliente": "CUMMINS",
+            "total_ventas": 97,
+            "total_sence": 10
+        },
+        {
+            "IdCliente": 421,
+            "NombreCliente": "CONSTRUCTORA BAICAL",
+            "total_ventas": 106,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 556,
+            "NombreCliente": "Echeverria Izquierdo",
+            "total_ventas": 63,
+            "total_sence": 43
+        },
+        {
+            "IdCliente": 513,
+            "NombreCliente": "HEXAGON MINING",
+            "total_ventas": 99,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 94,
+            "NombreCliente": "AVA MONTAJES",
+            "total_ventas": 98,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 834,
+            "NombreCliente": "TTM CHILE S.A.",
+            "total_ventas": 95,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 565,
+            "NombreCliente": "Emin",
+            "total_ventas": 90,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 131,
+            "NombreCliente": "CONTITECH CHILE S.A",
+            "total_ventas": 88,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 705,
+            "NombreCliente": "KOMATSU CUMMINS CHILE LTDA.",
+            "total_ventas": 53,
+            "total_sence": 28
+        },
+        {
+            "IdCliente": 548,
+            "NombreCliente": "Metso Industrial Services SpA",
+            "total_ventas": 64,
+            "total_sence": 15
+        },
+        {
+            "IdCliente": 991,
+            "NombreCliente": "LABORCE",
+            "total_ventas": 76,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 296,
+            "NombreCliente": "SALFA MANTENCIONES",
+            "total_ventas": 51,
+            "total_sence": 25
+        },
+        {
+            "IdCliente": 1088,
+            "NombreCliente": "CONFIPETROL",
+            "total_ventas": 71,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 464,
+            "NombreCliente": "Comercializadora Fourthane Ltda.",
+            "total_ventas": 70,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 310,
+            "NombreCliente": "SIEMENS",
+            "total_ventas": 68,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1028,
+            "NombreCliente": "SANDVIK CHLE",
+            "total_ventas": 67,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1027,
+            "NombreCliente": "CONSORCIO TNT VIAL Y VIVES – DSD CHILE LIMITADA",
+            "total_ventas": 63,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 283,
+            "NombreCliente": "PYC",
+            "total_ventas": 63,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 329,
+            "NombreCliente": "SOLUCIONES AMBIENTALES DEL NORTE S.A.",
+            "total_ventas": 61,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 521,
+            "NombreCliente": "KDM INDUSTRIAL S.A.",
+            "total_ventas": 52,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 839,
+            "NombreCliente": "EMPRESA CONSTRUCTORA BELFI S.A.",
+            "total_ventas": 32,
+            "total_sence": 26
+        },
+        {
+            "IdCliente": 482,
+            "NombreCliente": "SOTRASER S.A",
+            "total_ventas": 56,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 998,
+            "NombreCliente": "STN",
+            "total_ventas": 56,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 286,
+            "NombreCliente": "REMA TIP-TOP",
+            "total_ventas": 54,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 308,
+            "NombreCliente": "Sgs Chile Limitada",
+            "total_ventas": 41,
+            "total_sence": 12
+        },
+        {
+            "IdCliente": 964,
+            "NombreCliente": "FLUITEK MARCO SPA",
+            "total_ventas": 52,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 459,
+            "NombreCliente": "REPORT",
+            "total_ventas": 29,
+            "total_sence": 22
+        },
+        {
+            "IdCliente": 134,
+            "NombreCliente": "CONYMET",
+            "total_ventas": 47,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 287,
+            "NombreCliente": "RENTALMIN",
+            "total_ventas": 46,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 507,
+            "NombreCliente": "CSI",
+            "total_ventas": 35,
+            "total_sence": 9
+        },
+        {
+            "IdCliente": 1253,
+            "NombreCliente": "Sobek Ingenieria",
+            "total_ventas": 44,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 451,
+            "NombreCliente": "INGEAP",
+            "total_ventas": 43,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 696,
+            "NombreCliente": "TRAIN LTDA.",
+            "total_ventas": 43,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 697,
+            "NombreCliente": "ALBEMARLE LIMITADA",
+            "total_ventas": 24,
+            "total_sence": 16
+        },
+        {
+            "IdCliente": 394,
+            "NombreCliente": "Consorcio Servasol MPM Limitada",
+            "total_ventas": 40,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 198,
+            "NombreCliente": "ICL",
+            "total_ventas": 33,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 265,
+            "NombreCliente": "New Tech Copper S.P.A.",
+            "total_ventas": 39,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 660,
+            "NombreCliente": "PROACTIVE SPA",
+            "total_ventas": 40,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 764,
+            "NombreCliente": "INGENIERIA Y CONTRUCCION FRANCIS DANIEL OJEDA ROJAS E.I.R.L",
+            "total_ventas": 39,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 285,
+            "NombreCliente": "RELIX S.A",
+            "total_ventas": 39,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 232,
+            "NombreCliente": "LIEBHERR",
+            "total_ventas": 37,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 963,
+            "NombreCliente": "SIGMA S.A",
+            "total_ventas": 37,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 340,
+            "NombreCliente": "TECNOLOGIAS COBRA LIMITADA",
+            "total_ventas": 37,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 984,
+            "NombreCliente": "FLSMIDTH S.A.",
+            "total_ventas": 29,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 181,
+            "NombreCliente": "GUIÑEZ INGENIERIA LTDA",
+            "total_ventas": 30,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 1032,
+            "NombreCliente": "SEGURISUR MEDICAL",
+            "total_ventas": 33,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 690,
+            "NombreCliente": "Codelco",
+            "total_ventas": 32,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 400,
+            "NombreCliente": "OTRACO CHILE S.A.",
+            "total_ventas": 30,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1106,
+            "NombreCliente": "Convergint",
+            "total_ventas": 30,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 695,
+            "NombreCliente": "L&H INDUSTRIAL CHILE",
+            "total_ventas": 30,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 288,
+            "NombreCliente": "RESITER",
+            "total_ventas": 27,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 670,
+            "NombreCliente": "Ingeniería Fibercom Limitada",
+            "total_ventas": 27,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 125,
+            "NombreCliente": "Compass Catering S.A",
+            "total_ventas": 23,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 148,
+            "NombreCliente": "DTSA",
+            "total_ventas": 22,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 230,
+            "NombreCliente": "Lem",
+            "total_ventas": 26,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 970,
+            "NombreCliente": "ICEM S.A",
+            "total_ventas": 25,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 514,
+            "NombreCliente": "MARTINIC",
+            "total_ventas": 25,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 403,
+            "NombreCliente": "ROCMIN SPA",
+            "total_ventas": 25,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 966,
+            "NombreCliente": "TUNNING INGENIERIA SPA",
+            "total_ventas": 25,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 90,
+            "NombreCliente": "ASTERCHILE LTDA.",
+            "total_ventas": 17,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 165,
+            "NombreCliente": "ENAEX SERVICIOS S.A",
+            "total_ventas": 24,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 559,
+            "NombreCliente": "R&Q Ingeniería S.A.",
+            "total_ventas": 23,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 953,
+            "NombreCliente": "WORLEY INGENIERÍA Y CONSTRUCCIÓN S.A.",
+            "total_ventas": 24,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 184,
+            "NombreCliente": "H-E PARTS INTERNATIONAL CHILE SPA",
+            "total_ventas": 13,
+            "total_sence": 10
+        },
+        {
+            "IdCliente": 890,
+            "NombreCliente": "PROMET SERVICIOS",
+            "total_ventas": 13,
+            "total_sence": 10
+        },
+        {
+            "IdCliente": 1018,
+            "NombreCliente": "TYD Global EIRL",
+            "total_ventas": 23,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 361,
+            "NombreCliente": "VULCO S.A",
+            "total_ventas": 15,
+            "total_sence": 8
+        },
+        {
+            "IdCliente": 770,
+            "NombreCliente": "ARAMARK SERVICIOS MINEROS Y REMOTOS LIMITADA",
+            "total_ventas": 22,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1023,
+            "NombreCliente": "MAXIMETAL SPA",
+            "total_ventas": 22,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 869,
+            "NombreCliente": "EQUANS",
+            "total_ventas": 17,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 235,
+            "NombreCliente": "MAC",
+            "total_ventas": 11,
+            "total_sence": 10
+        },
+        {
+            "IdCliente": 1030,
+            "NombreCliente": "REMSA SPA",
+            "total_ventas": 20,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1011,
+            "NombreCliente": "Transbuild SPA.",
+            "total_ventas": 20,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 179,
+            "NombreCliente": "GLOBAL SERVICE",
+            "total_ventas": 12,
+            "total_sence": 7
+        },
+        {
+            "IdCliente": 1156,
+            "NombreCliente": "Skill Group Spa",
+            "total_ventas": 18,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 962,
+            "NombreCliente": "COSTELLA PROYECTOS S.A.",
+            "total_ventas": 17,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 215,
+            "NombreCliente": "INVERSIONES KALLPA SPA",
+            "total_ventas": 17,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1131,
+            "NombreCliente": "SOFOFA",
+            "total_ventas": 14,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 571,
+            "NombreCliente": "Esav Chile",
+            "total_ventas": 16,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1698,
+            "NombreCliente": "Promec Chile Spa",
+            "total_ventas": 16,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 934,
+            "NombreCliente": "EPIROC CHILE",
+            "total_ventas": 15,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 491,
+            "NombreCliente": "EXPERTICIA INGENIEROS S.A.",
+            "total_ventas": 15,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1040,
+            "NombreCliente": "CIMAPRIME SPA",
+            "total_ventas": 14,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 367,
+            "NombreCliente": "ZaMine",
+            "total_ventas": 11,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 1061,
+            "NombreCliente": "Bemax servicios spa",
+            "total_ventas": 13,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1001,
+            "NombreCliente": "Grupo Gordillo",
+            "total_ventas": 8,
+            "total_sence": 5
+        },
+        {
+            "IdCliente": 1047,
+            "NombreCliente": "MAGOTTEAUX CHILE S.A.",
+            "total_ventas": 11,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1187,
+            "NombreCliente": "Mantoverde S.a.",
+            "total_ventas": 13,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 710,
+            "NombreCliente": "SOCIEDAD COMERCIAL SAN IGNACIO LIMITADA",
+            "total_ventas": 13,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1034,
+            "NombreCliente": "Algoritmos Spa",
+            "total_ventas": 12,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 787,
+            "NombreCliente": "IMT",
+            "total_ventas": 12,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 741,
+            "NombreCliente": "JEJ Ingeniería S.A.",
+            "total_ventas": 11,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 721,
+            "NombreCliente": "MAQUINARIA ICV",
+            "total_ventas": 8,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 968,
+            "NombreCliente": "Paramount Gruas S.A.",
+            "total_ventas": 12,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 362,
+            "NombreCliente": "WESTFIRE SUDAMERICA SPA",
+            "total_ventas": 12,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 879,
+            "NombreCliente": "Almar Water Servicios Latam S.A.",
+            "total_ventas": 10,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 757,
+            "NombreCliente": "CONSTRUCTORA PEHUENCHE LTDA",
+            "total_ventas": 9,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 802,
+            "NombreCliente": "RADIOSKY",
+            "total_ventas": 11,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1199,
+            "NombreCliente": "Rentokil Initial",
+            "total_ventas": 6,
+            "total_sence": 5
+        },
+        {
+            "IdCliente": 398,
+            "NombreCliente": "SOMACOR S.A.",
+            "total_ventas": 9,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 842,
+            "NombreCliente": "VISAUCO SERVICE SPA",
+            "total_ventas": 11,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 573,
+            "NombreCliente": "Conveyor Belt Technology",
+            "total_ventas": 10,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 941,
+            "NombreCliente": "FUNDICION",
+            "total_ventas": 6,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 837,
+            "NombreCliente": "NORTHTEK INGENIERÍA LIMITADA",
+            "total_ventas": 10,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1517,
+            "NombreCliente": "Repreind Spa",
+            "total_ventas": 10,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 316,
+            "NombreCliente": "SK INDUSTRIAL",
+            "total_ventas": 10,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 336,
+            "NombreCliente": "Tattersall S.A.",
+            "total_ventas": 10,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1003,
+            "NombreCliente": "ESM SPA",
+            "total_ventas": 9,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 186,
+            "NombreCliente": "HIDRAULICA CALAMA SPA",
+            "total_ventas": 6,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 822,
+            "NombreCliente": "LUAGHER SPA",
+            "total_ventas": 9,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 249,
+            "NombreCliente": "MINERA CENTINELA",
+            "total_ventas": 9,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 905,
+            "NombreCliente": "BEE 3D TECHNOLOGY SPA",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 136,
+            "NombreCliente": "CORPORACION MUNICIPAL DE DESARROLLO SOCIAL DE CALAMA",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 700,
+            "NombreCliente": "EMPRESA CONSTRUCTORA GUZMAN Y LARRAIN LTDA",
+            "total_ventas": 6,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1277,
+            "NombreCliente": "Empresa Transportes Trans Vip Spa",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1062,
+            "NombreCliente": "IIC Mining Technologies SpA",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 240,
+            "NombreCliente": "MB INGENIERIA",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1037,
+            "NombreCliente": "PRM",
+            "total_ventas": 4,
+            "total_sence": 4
+        },
+        {
+            "IdCliente": 739,
+            "NombreCliente": "SIERRA GORDA  SCM",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1335,
+            "NombreCliente": "Securitas",
+            "total_ventas": 7,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 836,
+            "NombreCliente": "Servicios y Proyectos Ambientales S.A",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1303,
+            "NombreCliente": "Sociedad Astudillo E Ibacache Limitada",
+            "total_ventas": 8,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1154,
+            "NombreCliente": "AGENOR",
+            "total_ventas": 4,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 546,
+            "NombreCliente": "AXINNTUS",
+            "total_ventas": 4,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 1146,
+            "NombreCliente": "Alma Observatorio",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1071,
+            "NombreCliente": "CONSTRUCTORA TECTON SPA",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1017,
+            "NombreCliente": "EBCO S.A",
+            "total_ventas": 6,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 164,
+            "NombreCliente": "ENAEX S.A.",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1456,
+            "NombreCliente": "Efbo Ltd",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 384,
+            "NombreCliente": "GYT Servicios Integrales SpA",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 454,
+            "NombreCliente": "IMG",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 549,
+            "NombreCliente": "MS MIN",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1149,
+            "NombreCliente": "Remin SPA",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1673,
+            "NombreCliente": "Servicio De Refrigeración Aire Acondicionado Celsius Clima Ltda",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 972,
+            "NombreCliente": "TREPSA",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1230,
+            "NombreCliente": "Triconos Mineros",
+            "total_ventas": 7,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 918,
+            "NombreCliente": "AGUNSA",
+            "total_ventas": 4,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 120,
+            "NombreCliente": "COASIN",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 126,
+            "NombreCliente": "CONELEC",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 746,
+            "NombreCliente": "ENGIE GAS CHILE SPA",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1132,
+            "NombreCliente": "Empresa de Servicios Misckanti Limitada",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 193,
+            "NombreCliente": "HIGH VOLTAGE LTDA",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 854,
+            "NombreCliente": "Inppamet Ltda.",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1064,
+            "NombreCliente": "R Y T SERVICIOS DE INGENIERIA",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1068,
+            "NombreCliente": "READY MIX HORMIGONES LTDA.",
+            "total_ventas": 3,
+            "total_sence": 3
+        },
+        {
+            "IdCliente": 744,
+            "NombreCliente": "SODEXO CHILE SPA",
+            "total_ventas": 4,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 872,
+            "NombreCliente": "TECIC",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 338,
+            "NombreCliente": "TECNASIC",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 396,
+            "NombreCliente": "TORMETAL",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1158,
+            "NombreCliente": "Thecne",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 926,
+            "NombreCliente": "VOLTA. SPA",
+            "total_ventas": 6,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1022,
+            "NombreCliente": "Ambipar Response",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1569,
+            "NombreCliente": "Arrigoni Ingeniería y Construcción S.A.",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 788,
+            "NombreCliente": "CONSTRUCTORA MSA SPA",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 801,
+            "NombreCliente": "GLOBAL SERVICE",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1266,
+            "NombreCliente": "Gps Service Spa",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1135,
+            "NombreCliente": "INNERGEX",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1043,
+            "NombreCliente": "IROMA",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1336,
+            "NombreCliente": "Mantenciones Wolotec Limitada",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 269,
+            "NombreCliente": "ORBIT GARANT",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 281,
+            "NombreCliente": "PROMEC CHILE SPA",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 946,
+            "NombreCliente": "SALFA MONTAJES",
+            "total_ventas": 4,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1013,
+            "NombreCliente": "SOCIEDAD COMERCIAL DE TRANSPORTES ICT LTDA",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 337,
+            "NombreCliente": "TECHINT CHILE S.A.",
+            "total_ventas": 3,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 805,
+            "NombreCliente": "TERMINAL PUERTO ARICA S.A.",
+            "total_ventas": 3,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 352,
+            "NombreCliente": "TRANSPORTES POLAR S.A.",
+            "total_ventas": 3,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1103,
+            "NombreCliente": "XEL XERVICES",
+            "total_ventas": 5,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1072,
+            "NombreCliente": "ALMAR WATER SERVICIOS CHILE SPA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 545,
+            "NombreCliente": "ALTONORTE",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1070,
+            "NombreCliente": "ATACAMA MINERALS",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1055,
+            "NombreCliente": "AUEL SOCIEDAD COMERCIAL E INDUSTRIAL LIMITADA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 870,
+            "NombreCliente": "Aiko Logic SpA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 103,
+            "NombreCliente": "BUREAU VERITAS CHILE S A",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 503,
+            "NombreCliente": "CADETECH",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 976,
+            "NombreCliente": "CEIBO COMERCIAL SPA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1087,
+            "NombreCliente": "CMPC PULP SPA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 619,
+            "NombreCliente": "CONSTRUCTORA EL SAUCE",
+            "total_ventas": 3,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 933,
+            "NombreCliente": "DESIGN",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 140,
+            "NombreCliente": "DETROIT S.A.",
+            "total_ventas": 3,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 146,
+            "NombreCliente": "DISERVA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1522,
+            "NombreCliente": "Diexa S.a.",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 158,
+            "NombreCliente": "EMBOTELLADORA ANDINA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 887,
+            "NombreCliente": "EXPORT METALS LIMITADA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 992,
+            "NombreCliente": "Escuela de Conductores San Andrés",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 832,
+            "NombreCliente": "FERROSTAAL CHILE S.A.C.",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1099,
+            "NombreCliente": "HOSCH",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 256,
+            "NombreCliente": "INGENIERIA ELECTRICA MONTELEC SPA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1433,
+            "NombreCliente": "Incoservicios",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1711,
+            "NombreCliente": "Ingeniería Y Construcción Ironservice Spa.",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 717,
+            "NombreCliente": "Ingeniería y Construcciones Chaba Limitada",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1204,
+            "NombreCliente": "Ingeniería, Diseño, Suministro Y Construcción E.p.c Ruta Minera",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1124,
+            "NombreCliente": "Insecap Capacitación",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1536,
+            "NombreCliente": "LUREYE ARRIENDOS LTDA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1056,
+            "NombreCliente": "MAESTRANZA ALEMANIA LIMITADA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 797,
+            "NombreCliente": "MIES EMPRESA DE SERVICIOS INDUSTRIALES LIMITADA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 251,
+            "NombreCliente": "MINERA SPENCE S.A.",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1033,
+            "NombreCliente": "NOKIA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1378,
+            "NombreCliente": "Nordes Spa",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 270,
+            "NombreCliente": "ORICA CHILE S.A.",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1733,
+            "NombreCliente": "Qsat Relecom Spa",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1129,
+            "NombreCliente": "RECIMAT",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1152,
+            "NombreCliente": "RVC",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1272,
+            "NombreCliente": "Rentokil Initial SPA",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1809,
+            "NombreCliente": "Revergy Spa",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 299,
+            "NombreCliente": "SEMAR",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 527,
+            "NombreCliente": "SERVISUB",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1143,
+            "NombreCliente": "SOC COM E IND TRANYMEC Y CIA LTDA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 567,
+            "NombreCliente": "Sigma S.a.",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1799,
+            "NombreCliente": "Sociedad Chile Engineering Limitada",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1089,
+            "NombreCliente": "TERQUIM",
+            "total_ventas": 2,
+            "total_sence": 2
+        },
+        {
+            "IdCliente": 1148,
+            "NombreCliente": "Tecnología e Informática Interside Spa",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1440,
+            "NombreCliente": "Transportes Gregoria",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 886,
+            "NombreCliente": "Trek Rental",
+            "total_ventas": 3,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 624,
+            "NombreCliente": "VELMAR LTDA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 602,
+            "NombreCliente": "VOLTA SPA",
+            "total_ventas": 4,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1063,
+            "NombreCliente": "AGRÍCOLA SAN CLEMENTE LTDA.",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 993,
+            "NombreCliente": "AMBIPAR",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 82,
+            "NombreCliente": "APPLUS INGELOG",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1073,
+            "NombreCliente": "ASITEL",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 92,
+            "NombreCliente": "ATLAS COPCO",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 659,
+            "NombreCliente": "ATTREZZATURA SPA",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 374,
+            "NombreCliente": "BUREAU VERITAS CHILE S A",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1093,
+            "NombreCliente": "CAPITAL MINING",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 441,
+            "NombreCliente": "CIVELEC",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 130,
+            "NombreCliente": "CONSTRUCTORA CERRO NEVADO S.A.",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 133,
+            "NombreCliente": "CONVEYOR BELT",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 525,
+            "NombreCliente": "CRIBACH",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1006,
+            "NombreCliente": "Colegio Técnico Industrial Don Bosco",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1660,
+            "NombreCliente": "Constructora 2th",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1140,
+            "NombreCliente": "FLAMEGROUP SPA",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1051,
+            "NombreCliente": "HIDROIONIC",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 207,
+            "NombreCliente": "INGETEAM",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1214,
+            "NombreCliente": "Ingenieria Horeb",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 224,
+            "NombreCliente": "KAL TIRE S.A",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 704,
+            "NombreCliente": "KOMATSU HOLDING SOUTH AMERICA LTDA.",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1693,
+            "NombreCliente": "Lo Valledor (administradora De Mercado Spa)",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1361,
+            "NombreCliente": "Lureye Adminitracion Y Gestion Sa",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 882,
+            "NombreCliente": "MAXAM",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1141,
+            "NombreCliente": "MINING STEEL SPA.",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1208,
+            "NombreCliente": "Martinic Ingenieria",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1416,
+            "NombreCliente": "Minera El Way S.a.",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 973,
+            "NombreCliente": "North Services Ingeniería Limitada",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1010,
+            "NombreCliente": "PARWA LTDA",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1151,
+            "NombreCliente": "PIMASA",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 65,
+            "NombreCliente": "PUCARA S.A.",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1026,
+            "NombreCliente": "Quiborax",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 713,
+            "NombreCliente": "REPARACIONES REPAIRCO LIMITADA",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1602,
+            "NombreCliente": "Robles Steel Spa",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 957,
+            "NombreCliente": "RyC SPA",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 794,
+            "NombreCliente": "SERMYJOR LTDA",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1524,
+            "NombreCliente": "SK CAPACITACION SA",
+            "total_ventas": 2,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1074,
+            "NombreCliente": "SKYBYTE INGENIERIA",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 334,
+            "NombreCliente": "SUEZ Medioambiente Chile S.A",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1384,
+            "NombreCliente": "Solvay Peróxidos De Los Andes",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1718,
+            "NombreCliente": "Sunwork",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 490,
+            "NombreCliente": "VYS",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1786,
+            "NombreCliente": "Wsp Chile",
+            "total_ventas": 3,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 73,
+            "NombreCliente": "AGUASIN SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 463,
+            "NombreCliente": "AGUNSA S.A.",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1346,
+            "NombreCliente": "Acciona Agua S.a.u. Agencia En Chile",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1394,
+            "NombreCliente": "Air Liquide Chile S A",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 650,
+            "NombreCliente": "Air Products",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1050,
+            "NombreCliente": "Algorta Norte S.A.",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 95,
+            "NombreCliente": "B.Bosch",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1101,
+            "NombreCliente": "B3DTEC",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 99,
+            "NombreCliente": "BESALCO MD MONTAJES S.A.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 844,
+            "NombreCliente": "BIBARO SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 688,
+            "NombreCliente": "Beagle",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1123,
+            "NombreCliente": "Blumos Ltda",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1117,
+            "NombreCliente": "CCC",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1069,
+            "NombreCliente": "CHILE FORTESCUE SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 888,
+            "NombreCliente": "CONACSA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1600,
+            "NombreCliente": "CONSORCIO GLOBE-REVENGA SA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 547,
+            "NombreCliente": "CYMS SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1126,
+            "NombreCliente": "Consorcio CDZ Ingeniería Uno Limitada",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 841,
+            "NombreCliente": "D2R INTERNATIONAL LLC",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 145,
+            "NombreCliente": "DIPROFIRE CHILE LTDA.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1142,
+            "NombreCliente": "EMBOTELLADORA ANDINA",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 720,
+            "NombreCliente": "Esimtel S.A.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1024,
+            "NombreCliente": "FERRONOR S.A.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1038,
+            "NombreCliente": "FairWind Chile SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1387,
+            "NombreCliente": "Flanders",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1607,
+            "NombreCliente": "Fundacion Jurique",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 995,
+            "NombreCliente": "GEO-3 EIRL",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1031,
+            "NombreCliente": "GLOBAL ICE SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1930,
+            "NombreCliente": "GREENWORK TECHNOLOGY SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1060,
+            "NombreCliente": "GRUPO PARAMO",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 598,
+            "NombreCliente": "Guillermo Orlando Diaz Aliaga",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 520,
+            "NombreCliente": "HELLEMAHOLLAND",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 202,
+            "NombreCliente": "INAMAR",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 803,
+            "NombreCliente": "INNERIA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 213,
+            "NombreCliente": "INTSERCOM",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1731,
+            "NombreCliente": "Ingomar",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 982,
+            "NombreCliente": "Insecap Capacitación",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 422,
+            "NombreCliente": "Inversiones Impacto",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1735,
+            "NombreCliente": "Islacoop",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1198,
+            "NombreCliente": "L&R INGENIERIA Y CLIMATIZACION SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 597,
+            "NombreCliente": "MAESTRANZA DIESEL",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 979,
+            "NombreCliente": "MINERA SAN CRISTOBAL S.A",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 563,
+            "NombreCliente": "Mincon Chile S.a.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1136,
+            "NombreCliente": "Mine Class",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 267,
+            "NombreCliente": "NORACID S.A.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1388,
+            "NombreCliente": "Novamine Chile Spa",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1049,
+            "NombreCliente": "OS-SERVICE SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1254,
+            "NombreCliente": "Oservim Spa",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 733,
+            "NombreCliente": "PRORED ZONA NORTE LTDA.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1908,
+            "NombreCliente": "Protab Spa.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1109,
+            "NombreCliente": "QSAT TELECOM SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1437,
+            "NombreCliente": "Quantec Geoscience Chile",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 518,
+            "NombreCliente": "RL TRANSPORTES",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1644,
+            "NombreCliente": "Recsol S.a.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1696,
+            "NombreCliente": "Rpm Parts Spa",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1568,
+            "NombreCliente": "SAAM TOWAGW CHILE SPA",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1128,
+            "NombreCliente": "SCM Minera Lumina Copper Chile",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 302,
+            "NombreCliente": "SERGOMET LIMITADA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 769,
+            "NombreCliente": "SIEC LTDA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 914,
+            "NombreCliente": "SOC. CONTRACTUAL MINERA EL ABRA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 499,
+            "NombreCliente": "SOCIEDAD CONSTRUCTORA FARICASTELL SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 84,
+            "NombreCliente": "SOFOFA",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1108,
+            "NombreCliente": "SONDA S.A.",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 729,
+            "NombreCliente": "SWANSON INDUSTRIES CHILE S.A.",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1118,
+            "NombreCliente": "Servilinares SPA",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1805,
+            "NombreCliente": "Sociedad Comercial E Industrial Elemont Ltda",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1632,
+            "NombreCliente": "Solpack S.a.",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1201,
+            "NombreCliente": "Sourcing Spa",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1179,
+            "NombreCliente": "Strabag-edilmac Desarrollos Verticales Spa",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 875,
+            "NombreCliente": "TEKNICA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 613,
+            "NombreCliente": "TRANSPORTES CVU",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 402,
+            "NombreCliente": "Thor Saan Ltda.",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 939,
+            "NombreCliente": "Transportes Michea SPA",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1544,
+            "NombreCliente": "United Sistemas De Tuberias Ltda",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 360,
+            "NombreCliente": "VOLCAN NEVADO",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1211,
+            "NombreCliente": "Vcv Testing",
+            "total_ventas": 2,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1627,
+            "NombreCliente": "Winpack S.A.",
+            "total_ventas": 1,
+            "total_sence": 1
+        },
+        {
+            "IdCliente": 1580,
+            "NombreCliente": "ACUANOR",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 642,
+            "NombreCliente": "ANDRES GREGORIO VALENCIA OSSANDON",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 975,
+            "NombreCliente": "APRO LTDA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1102,
+            "NombreCliente": "AQUASERVICES LTDA.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1039,
+            "NombreCliente": "ARAYA BRIONES LIMITADA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1009,
+            "NombreCliente": "ATECMIN LTDA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1048,
+            "NombreCliente": "ATLAS COPCO CHILE SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1098,
+            "NombreCliente": "Acciona",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1302,
+            "NombreCliente": "Agroservicios Capurro S.p.a.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1159,
+            "NombreCliente": "Aires Epa Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1547,
+            "NombreCliente": "Artimatemb Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1762,
+            "NombreCliente": "Asesorias Y Proyectos Empirica Consultores Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1067,
+            "NombreCliente": "Asesorías Salazar Alvarado Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1746,
+            "NombreCliente": "Asociacion Indigena Lemu Cuyen",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1971,
+            "NombreCliente": "Asociación de Mujeres Indígenas, Hijas de Nuestra Tierra",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1133,
+            "NombreCliente": "BIODIVERSA S.A.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 955,
+            "NombreCliente": "Beltrami, Guzmán y Bahamondes Operaciones Industriales SpA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1435,
+            "NombreCliente": "Birtec Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1732,
+            "NombreCliente": "COMPANIA MINERA DEL PACIFICO S.A.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1029,
+            "NombreCliente": "COMTECSA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1085,
+            "NombreCliente": "CUERPO DE BOMBEROS ANTOFAGASTA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1084,
+            "NombreCliente": "CVC Ingenieria S.A",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1554,
+            "NombreCliente": "Cerro Dominador Csp S.a",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1680,
+            "NombreCliente": "Cesar Enrique Camposano León Mantenimiento E Instalación De Sistemas De Calefaccion Eirl",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1182,
+            "NombreCliente": "Cicitem",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1262,
+            "NombreCliente": "Comercial Fashion’S Park S.a.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1160,
+            "NombreCliente": "Comercializadora Dutro Limitada",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1716,
+            "NombreCliente": "Comercializadora Revant Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 492,
+            "NombreCliente": "Constructora SES Ltda.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1052,
+            "NombreCliente": "Contac Ingenieros Limitada",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1882,
+            "NombreCliente": "Control Frio",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1495,
+            "NombreCliente": "Controlfrio Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1633,
+            "NombreCliente": "Custo Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1054,
+            "NombreCliente": "DAMTEC",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 780,
+            "NombreCliente": "DELEGACIÓN PRESIDENCIAL REGIONAL DE ANTOFAGASTA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 138,
+            "NombreCliente": "DERK INGENIERIA GEOLOGIA Y SERVICIOS",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1233,
+            "NombreCliente": "DYJ SERVICIOS",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1849,
+            "NombreCliente": "Durability Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 748,
+            "NombreCliente": "ELEC MON SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1482,
+            "NombreCliente": "ENKELD SpA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1641,
+            "NombreCliente": "Eecol Electri",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1829,
+            "NombreCliente": "Efficot SpA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1045,
+            "NombreCliente": "Electritec Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1042,
+            "NombreCliente": "Empresa Seguridad Integral Arcangeli Spa.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1737,
+            "NombreCliente": "Epol Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 470,
+            "NombreCliente": "Esimtel S.A",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1419,
+            "NombreCliente": "Exploraciones Mineras Emsa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 961,
+            "NombreCliente": "FLESAN MINERIA S.A",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 173,
+            "NombreCliente": "FRIO LOA LIMITADA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1436,
+            "NombreCliente": "Fabrago Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1083,
+            "NombreCliente": "Fenix Ingenieria y Servicios Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1342,
+            "NombreCliente": "Fireproofchile spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1757,
+            "NombreCliente": "GENERATEL SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1139,
+            "NombreCliente": "GEOSINERGIA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1709,
+            "NombreCliente": "GUZMAN Y LARRAIN VIVIENDAS ECONOMICAS SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 406,
+            "NombreCliente": "Gendarmeria",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1041,
+            "NombreCliente": "Geoassay",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1046,
+            "NombreCliente": "Global Clean",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1395,
+            "NombreCliente": "Greendot Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1827,
+            "NombreCliente": "Hc-group Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1105,
+            "NombreCliente": "INGEMARS",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 205,
+            "NombreCliente": "INGEMETAL",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1044,
+            "NombreCliente": "INGENIERIA Y SERVICIOS A LA MINERIA MDP LTDA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 999,
+            "NombreCliente": "INVERSIONES PULMAHUE SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1122,
+            "NombreCliente": "Icafal",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1446,
+            "NombreCliente": "Ilustre Municipalidad De Mejillones",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1260,
+            "NombreCliente": "Imh Solutyons",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 578,
+            "NombreCliente": "Ingenalse S.a.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1738,
+            "NombreCliente": "Ingenieros Y Consultores Hatch Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1295,
+            "NombreCliente": "Instituto Obispo Silva Lezaeta",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1081,
+            "NombreCliente": "Inversiones Impacto SA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1778,
+            "NombreCliente": "Isg Group Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 217,
+            "NombreCliente": "JAM Telecomunicaciones SpA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1096,
+            "NombreCliente": "JARDÍN FLORISTERÍA LAS PARINAS",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 219,
+            "NombreCliente": "JC SERVICIOS",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1398,
+            "NombreCliente": "Jade Limitada",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 781,
+            "NombreCliente": "KOMATSU CUMMINS CHILE LTDA.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1180,
+            "NombreCliente": "Kbn Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 994,
+            "NombreCliente": "LEICA GEOSYSTEMS",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 750,
+            "NombreCliente": "LICANCABUR SERVICIOS LIMITADA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1130,
+            "NombreCliente": "LO CASTILLO GYM & WELLNESS SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1015,
+            "NombreCliente": "Luis Poblete Gutierrez",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1019,
+            "NombreCliente": "MAGRAING CHILE SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 237,
+            "NombreCliente": "MANPOWER SERVICIOS INTEGRALES",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1756,
+            "NombreCliente": "MAX VAPOR SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 555,
+            "NombreCliente": "METASERVICE",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 838,
+            "NombreCliente": "MINABAS SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 250,
+            "NombreCliente": "MINERA MERIDIAN LTDA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 438,
+            "NombreCliente": "MSTECK",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1196,
+            "NombreCliente": "Maquinarias THM S.A.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1852,
+            "NombreCliente": "Motors 360 Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1300,
+            "NombreCliente": "Mpg Ingeniería",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1674,
+            "NombreCliente": "Mt Equipos Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1451,
+            "NombreCliente": "North Chile Investments Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1058,
+            "NombreCliente": "OHS PASCAL SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1981,
+            "NombreCliente": "OPPER Quality SpA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1104,
+            "NombreCliente": "ORBE CORP",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1781,
+            "NombreCliente": "P&r System H2o Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1595,
+            "NombreCliente": "PC FACTORY",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 276,
+            "NombreCliente": "PRECISION",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 551,
+            "NombreCliente": "PSINet",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1775,
+            "NombreCliente": "Pcred Einar Erlandsen Neubauer E I R L",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1097,
+            "NombreCliente": "Powerchina",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1789,
+            "NombreCliente": "Primser S.a",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1655,
+            "NombreCliente": "Proquiel Quimicos",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1276,
+            "NombreCliente": "Rbs spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1438,
+            "NombreCliente": "Resco S.a",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1697,
+            "NombreCliente": "Roccflex Servicios Integrales En Termofusion Ltda.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1004,
+            "NombreCliente": "SAAVEDRA Y ABALO MYS SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 645,
+            "NombreCliente": "SAN JOSÉ SERVICIOS E.I.R.L",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 298,
+            "NombreCliente": "SCHWAGER SERVICE S.A",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 448,
+            "NombreCliente": "SEPTUM",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1091,
+            "NombreCliente": "SIMSA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 840,
+            "NombreCliente": "SOLMANT SpA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 532,
+            "NombreCliente": "SQM",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 701,
+            "NombreCliente": "SUPPLYNOR CHILE SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1337,
+            "NombreCliente": "Satelco Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 775,
+            "NombreCliente": "Sermincho",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1420,
+            "NombreCliente": "Servicio Alta Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1866,
+            "NombreCliente": "Servicio Automotriz Tecnomotors Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1138,
+            "NombreCliente": "Servicios A&C Ingeniería y Transportes Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1755,
+            "NombreCliente": "Servicios Industriales & Comerciales Jhap Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1203,
+            "NombreCliente": "Servicios Industriales Integra",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1080,
+            "NombreCliente": "Servicios Logisticos Norte Grande SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1137,
+            "NombreCliente": "Servicios Nettle Hermanos Limitada",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1157,
+            "NombreCliente": "Servifrio",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1699,
+            "NombreCliente": "Sisdef Ltda.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1288,
+            "NombreCliente": "Sociedad Comercial e Importadora Villanueva SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1771,
+            "NombreCliente": "Sociedad Concesionaria Del Norte S.a",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1075,
+            "NombreCliente": "Sociedad Francisco Solano Muñoz Vilches e Hijos Ltda.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1078,
+            "NombreCliente": "Sociedad de Transportes Mabeco Ltda.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1723,
+            "NombreCliente": "Sumaj Llajta",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1322,
+            "NombreCliente": "Sungrow Americas",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 969,
+            "NombreCliente": "SyC",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1772,
+            "NombreCliente": "TRANSPORTE J&V",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1120,
+            "NombreCliente": "TRANSPORTE REYMAD SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1713,
+            "NombreCliente": "Techla Chile Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1750,
+            "NombreCliente": "Techservice Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1630,
+            "NombreCliente": "Terra Ignota Spa.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1658,
+            "NombreCliente": "Transp Tecnotek Chile Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1079,
+            "NombreCliente": "Transporte Serivicios y Venta de Insumos Sepulvada SPA",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1339,
+            "NombreCliente": "Transportes Gramaq",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1076,
+            "NombreCliente": "Transportes Walton Ltda.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1077,
+            "NombreCliente": "Transportes y Logistica  Anterra Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 471,
+            "NombreCliente": "ULTRAPORT",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1664,
+            "NombreCliente": "Universidad Viña del Mar",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 789,
+            "NombreCliente": "VOITH TURBO S.A.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1471,
+            "NombreCliente": "Vmw Ingeniería",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 487,
+            "NombreCliente": "WELLFIELD SERVICES LTDA.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 534,
+            "NombreCliente": "WSS S.A.",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 369,
+            "NombreCliente": "ZUBLIN",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1639,
+            "NombreCliente": "Zu Impermeabilizaciones Ltda",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1007,
+            "NombreCliente": "chaire",
+            "total_ventas": 1,
+            "total_sence": 0
+        },
+        {
+            "IdCliente": 1304,
+            "NombreCliente": "Álvarez & Hendermane Spa",
+            "total_ventas": 1,
+            "total_sence": 0
+        }
+    ],
+    "total_clientes": 514
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "mes": "01",
+        "demora_promedio": 67.0
+    },
+    {
+        "mes": "02",
+        "demora_promedio": 66.43
+    },
+    {
+        "mes": "03",
+        "demora_promedio": 54.92
+    },
+    {
+        "mes": "04",
+        "demora_promedio": 29.18
+    },
+    {
+        "mes": "05",
+        "demora_promedio": 65.67
+    },
+    {
+        "mes": "06",
+        "demora_promedio": 98.47
+    },
+    {
+        "mes": "07",
+        "demora_promedio": 41.19
+    },
+    {
+        "mes": "08",
+        "demora_promedio": 68.5
+    },
+    {
+        "mes": "09",
+        "demora_promedio": 66.67
+    },
+    {
+        "mes": "10",
+        "demora_promedio": 48.07
+    },
+    {
+        "mes": "11",
+        "demora_promedio": 25.22
+    },
+    {
+        "mes": "12",
+        "demora_promedio": 27.82
+    }
+]

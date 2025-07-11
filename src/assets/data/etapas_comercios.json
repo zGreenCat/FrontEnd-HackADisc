@@ -1,0 +1,14 @@
+[
+    {
+        "etapa": "Proceso → Inicio",
+        "dias_promedio": 42.21
+    },
+    {
+        "etapa": "Inicio → Primera Factura",
+        "dias_promedio": 1.24
+    },
+    {
+        "etapa": "Primera Factura → Monto Total",
+        "dias_promedio": 36.45
+    }
+]

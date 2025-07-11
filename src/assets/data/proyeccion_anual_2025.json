@@ -1,0 +1,193 @@
+{
+    "ano": 2025,
+    "fecha_consulta": "2025-07-11T14:53:06.492753",
+    "resumen_anual": {
+        "valor_total_estimado": 1607463077.62,
+        "promedio_mensual": 133955256.47,
+        "meses_con_datos_reales": 6,
+        "meses_proyectados": 6,
+        "meses_sin_datos": 0,
+        "porcentaje_datos_reales": 50.0,
+        "porcentaje_proyectado": 50.0
+    },
+    "valores_mensuales": {
+        "mes_01": {
+            "mes": 1,
+            "nombre": "Enero",
+            "valor_estimado": 639280314.0,
+            "fuente": "datos_reales",
+            "detalles": {
+                "valor_ventas_reales": 319592493.0,
+                "valor_cobrado_real": 319687821.0,
+                "valor_predicciones": 0,
+                "cantidad_ventas": 646,
+                "cantidad_pagos": 697,
+                "cantidad_predicciones": 0
+            }
+        },
+        "mes_02": {
+            "mes": 2,
+            "nombre": "Febrero",
+            "valor_estimado": 326897366.0,
+            "fuente": "datos_reales",
+            "detalles": {
+                "valor_ventas_reales": 163248683.0,
+                "valor_cobrado_real": 163648683.0,
+                "valor_predicciones": 0,
+                "cantidad_ventas": 395,
+                "cantidad_pagos": 438,
+                "cantidad_predicciones": 0
+            }
+        },
+        "mes_03": {
+            "mes": 3,
+            "nombre": "Marzo",
+            "valor_estimado": 268130426.0,
+            "fuente": "datos_reales",
+            "detalles": {
+                "valor_ventas_reales": 134065213.0,
+                "valor_cobrado_real": 134065213.0,
+                "valor_predicciones": 0,
+                "cantidad_ventas": 277,
+                "cantidad_pagos": 295,
+                "cantidad_predicciones": 0
+            }
+        },
+        "mes_04": {
+            "mes": 4,
+            "nombre": "Abril",
+            "valor_estimado": 116810428.0,
+            "fuente": "datos_reales",
+            "detalles": {
+                "valor_ventas_reales": 58405212.0,
+                "valor_cobrado_real": 58405216.0,
+                "valor_predicciones": 0,
+                "cantidad_ventas": 138,
+                "cantidad_pagos": 148,
+                "cantidad_predicciones": 0
+            }
+        },
+        "mes_05": {
+            "mes": 5,
+            "nombre": "Mayo",
+            "valor_estimado": 14194364.0,
+            "fuente": "datos_reales",
+            "detalles": {
+                "valor_ventas_reales": 7097182.0,
+                "valor_cobrado_real": 7097182.0,
+                "valor_predicciones": 0,
+                "cantidad_ventas": 21,
+                "cantidad_pagos": 24,
+                "cantidad_predicciones": 0
+            }
+        },
+        "mes_06": {
+            "mes": 6,
+            "nombre": "Junio",
+            "valor_estimado": 4800000.0,
+            "fuente": "datos_reales",
+            "detalles": {
+                "valor_ventas_reales": 2400000.0,
+                "valor_cobrado_real": 2400000.0,
+                "valor_predicciones": 0,
+                "cantidad_ventas": 1,
+                "cantidad_pagos": 1,
+                "cantidad_predicciones": 0
+            }
+        },
+        "mes_07": {
+            "mes": 7,
+            "nombre": "Julio",
+            "valor_estimado": 41769700.35,
+            "fuente": "predicciones_ml",
+            "detalles": {
+                "valor_ventas_reales": 0,
+                "valor_cobrado_real": 0,
+                "valor_predicciones": 41769700.34789435,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "cantidad_predicciones": 100
+            }
+        },
+        "mes_08": {
+            "mes": 8,
+            "nombre": "Agosto",
+            "valor_estimado": 42015404.47,
+            "fuente": "predicciones_ml",
+            "detalles": {
+                "valor_ventas_reales": 0,
+                "valor_cobrado_real": 0,
+                "valor_predicciones": 42015404.46758786,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "cantidad_predicciones": 100
+            }
+        },
+        "mes_09": {
+            "mes": 9,
+            "nombre": "Septiembre",
+            "valor_estimado": 44226741.54,
+            "fuente": "predicciones_ml",
+            "detalles": {
+                "valor_ventas_reales": 0,
+                "valor_cobrado_real": 0,
+                "valor_predicciones": 44226741.54482932,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "cantidad_predicciones": 100
+            }
+        },
+        "mes_10": {
+            "mes": 10,
+            "nombre": "Octubre",
+            "valor_estimado": 45946670.38,
+            "fuente": "predicciones_ml",
+            "detalles": {
+                "valor_ventas_reales": 0,
+                "valor_cobrado_real": 0,
+                "valor_predicciones": 45946670.382683806,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "cantidad_predicciones": 100
+            }
+        },
+        "mes_11": {
+            "mes": 11,
+            "nombre": "Noviembre",
+            "valor_estimado": 41278292.11,
+            "fuente": "predicciones_ml",
+            "detalles": {
+                "valor_ventas_reales": 0,
+                "valor_cobrado_real": 0,
+                "valor_predicciones": 41278292.10850737,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "cantidad_predicciones": 100
+            }
+        },
+        "mes_12": {
+            "mes": 12,
+            "nombre": "Diciembre",
+            "valor_estimado": 22113370.77,
+            "fuente": "predicciones_ml",
+            "detalles": {
+                "valor_ventas_reales": 0,
+                "valor_cobrado_real": 0,
+                "valor_predicciones": 22113370.772414666,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "cantidad_predicciones": 100
+            }
+        }
+    },
+    "configuracion": {
+        "incluir_predicciones": true,
+        "modelo_ml_disponible": true,
+        "filtros_aplicados": [
+            "ADI%",
+            "OTR%",
+            "SPD%",
+            "solo_clientes_pagados_completos"
+        ]
+    }
+}

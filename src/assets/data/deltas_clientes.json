@@ -1,0 +1,3460 @@
+[
+    {
+        "cliente_id": 567,
+        "cliente_nombre": "Sigma S.a.\t",
+        "delta_x_promedio": 15.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 50.5
+    },
+    {
+        "cliente_id": 246,
+        "cliente_nombre": "METSO",
+        "delta_x_promedio": 38.2,
+        "delta_y_promedio": 2.2,
+        "delta_z_promedio": 30.3
+    },
+    {
+        "cliente_id": 283,
+        "cliente_nombre": "PYC",
+        "delta_x_promedio": 22.6,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 31.7
+    },
+    {
+        "cliente_id": 334,
+        "cliente_nombre": "Veolia",
+        "delta_x_promedio": 53.0,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 33.8
+    },
+    {
+        "cliente_id": 992,
+        "cliente_nombre": "Escuela de Conductores San Andrés",
+        "delta_x_promedio": 29.2,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 3.5
+    },
+    {
+        "cliente_id": 226,
+        "cliente_nombre": "KOMATSU CHILE S.A",
+        "delta_x_promedio": 72.1,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 30.4
+    },
+    {
+        "cliente_id": 137,
+        "cliente_nombre": "CUMMINS",
+        "delta_x_promedio": 47.7,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 30.4
+    },
+    {
+        "cliente_id": 934,
+        "cliente_nombre": "EPIROC CHILE",
+        "delta_x_promedio": 16.1,
+        "delta_y_promedio": 1.8,
+        "delta_z_promedio": 36.5
+    },
+    {
+        "cliente_id": 521,
+        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+        "delta_x_promedio": 30.6,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 45.2
+    },
+    {
+        "cliente_id": 418,
+        "cliente_nombre": "Inversiones Farias y Farias SPA",
+        "delta_x_promedio": 43.7,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 63.6
+    },
+    {
+        "cliente_id": 333,
+        "cliente_nombre": "STEEL INGENIERIA S.A.",
+        "delta_x_promedio": 49.1,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 40.8
+    },
+    {
+        "cliente_id": 594,
+        "cliente_nombre": "BERLIAM SPA",
+        "delta_x_promedio": 59.5,
+        "delta_y_promedio": 1.4,
+        "delta_z_promedio": 39.9
+    },
+    {
+        "cliente_id": 670,
+        "cliente_nombre": "Ingeniería Fibercom Limitada",
+        "delta_x_promedio": 12.4,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 33.7
+    },
+    {
+        "cliente_id": 507,
+        "cliente_nombre": "CSI",
+        "delta_x_promedio": 25.3,
+        "delta_y_promedio": 0.4,
+        "delta_z_promedio": 33.6
+    },
+    {
+        "cliente_id": 835,
+        "cliente_nombre": "CONSTRUCTORA GMT LTDA",
+        "delta_x_promedio": 13.6,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 65.2
+    },
+    {
+        "cliente_id": 972,
+        "cliente_nombre": "TREPSA",
+        "delta_x_promedio": 36.3,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 38.3
+    },
+    {
+        "cliente_id": 1006,
+        "cliente_nombre": "Colegio Técnico Industrial Don Bosco",
+        "delta_x_promedio": 17.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 21.0
+    },
+    {
+        "cliente_id": 412,
+        "cliente_nombre": "THIESS CHILE SPA",
+        "delta_x_promedio": 60.9,
+        "delta_y_promedio": 2.5,
+        "delta_z_promedio": 40.6
+    },
+    {
+        "cliente_id": 970,
+        "cliente_nombre": "ICEM S.A",
+        "delta_x_promedio": 14.5,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 14.1
+    },
+    {
+        "cliente_id": 273,
+        "cliente_nombre": "PARTICULAR",
+        "delta_x_promedio": 23.5,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 8.3
+    },
+    {
+        "cliente_id": 287,
+        "cliente_nombre": "RENTALMIN",
+        "delta_x_promedio": 7.9,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 40.4
+    },
+    {
+        "cliente_id": 200,
+        "cliente_nombre": "ICV",
+        "delta_x_promedio": 39.7,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 29.3
+    },
+    {
+        "cliente_id": 834,
+        "cliente_nombre": "TTM CHILE S.A.",
+        "delta_x_promedio": 28.2,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 37.9
+    },
+    {
+        "cliente_id": 223,
+        "cliente_nombre": "JOY GLOBAL",
+        "delta_x_promedio": 62.8,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 30.1
+    },
+    {
+        "cliente_id": 403,
+        "cliente_nombre": "ROCMIN SPA",
+        "delta_x_promedio": 24.2,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 38.0
+    },
+    {
+        "cliente_id": 1007,
+        "cliente_nombre": "chaire",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 77.0
+    },
+    {
+        "cliente_id": 259,
+        "cliente_nombre": "MPM",
+        "delta_x_promedio": 16.7,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 35.8
+    },
+    {
+        "cliente_id": 361,
+        "cliente_nombre": "VULCO S.A",
+        "delta_x_promedio": 53.7,
+        "delta_y_promedio": 2.6,
+        "delta_z_promedio": 44.0
+    },
+    {
+        "cliente_id": 310,
+        "cliente_nombre": "Innomotics S.A.",
+        "delta_x_promedio": 103.4,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 22.5
+    },
+    {
+        "cliente_id": 856,
+        "cliente_nombre": "CONSORCIO VOB",
+        "delta_x_promedio": 51.0,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 44.8
+    },
+    {
+        "cliente_id": 499,
+        "cliente_nombre": "SOCIEDAD CONSTRUCTORA FARICASTELL SPA",
+        "delta_x_promedio": 107.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 49.0
+    },
+    {
+        "cliente_id": 837,
+        "cliente_nombre": "NORTHTEK INGENIERÍA LIMITADA",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 36.3
+    },
+    {
+        "cliente_id": 367,
+        "cliente_nombre": "ZaMine",
+        "delta_x_promedio": 23.7,
+        "delta_y_promedio": 1.7,
+        "delta_z_promedio": 31.1
+    },
+    {
+        "cliente_id": 991,
+        "cliente_nombre": "LABORCE",
+        "delta_x_promedio": 17.7,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 1.9
+    },
+    {
+        "cliente_id": 739,
+        "cliente_nombre": "SIERRA GORDA  SCM",
+        "delta_x_promedio": 94.0,
+        "delta_y_promedio": 12.2,
+        "delta_z_promedio": 55.0
+    },
+    {
+        "cliente_id": 230,
+        "cliente_nombre": "Lem",
+        "delta_x_promedio": 43.2,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 44.7
+    },
+    {
+        "cliente_id": 571,
+        "cliente_nombre": "Esav Chile",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 67.8
+    },
+    {
+        "cliente_id": 1009,
+        "cliente_nombre": "ATECMIN LTDA",
+        "delta_x_promedio": 12.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 5.0
+    },
+    {
+        "cliente_id": 329,
+        "cliente_nombre": "SOLUCIONES AMBIENTALES DEL NORTE S.A.",
+        "delta_x_promedio": 13.3,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 47.4
+    },
+    {
+        "cliente_id": 964,
+        "cliente_nombre": "FLUITEK MARCO SPA",
+        "delta_x_promedio": 11.7,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 40.8
+    },
+    {
+        "cliente_id": 90,
+        "cliente_nombre": "ASTERCHILE LTDA.",
+        "delta_x_promedio": 27.0,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 26.8
+    },
+    {
+        "cliente_id": 905,
+        "cliente_nombre": "BEE 3D TECHNOLOGY SPA",
+        "delta_x_promedio": 18.8,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 16.1
+    },
+    {
+        "cliente_id": 288,
+        "cliente_nombre": "RESITER S.A.",
+        "delta_x_promedio": 18.2,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 533,
+        "cliente_nombre": "DL&C",
+        "delta_x_promedio": 25.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 37.9
+    },
+    {
+        "cliente_id": 946,
+        "cliente_nombre": "SALFA MONTAJES",
+        "delta_x_promedio": 103.2,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 52.0
+    },
+    {
+        "cliente_id": 930,
+        "cliente_nombre": "WORLD CLASS",
+        "delta_x_promedio": 40.5,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 11.4
+    },
+    {
+        "cliente_id": 494,
+        "cliente_nombre": "VECCHIOLA",
+        "delta_x_promedio": 22.5,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 47.7
+    },
+    {
+        "cliente_id": 286,
+        "cliente_nombre": "REMA TIP-TOP",
+        "delta_x_promedio": 48.2,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 21.9
+    },
+    {
+        "cliente_id": 717,
+        "cliente_nombre": "Ingeniería y Construcciones Chaba Limitada",
+        "delta_x_promedio": 11.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 78.2
+    },
+    {
+        "cliente_id": 770,
+        "cliente_nombre": "ARAMARK SERVICIOS MINEROS Y REMOTOS LIMITADA",
+        "delta_x_promedio": 27.2,
+        "delta_y_promedio": 9.3,
+        "delta_z_promedio": 24.5
+    },
+    {
+        "cliente_id": 386,
+        "cliente_nombre": "AKASA SPA",
+        "delta_x_promedio": 16.3,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 51.7
+    },
+    {
+        "cliente_id": 513,
+        "cliente_nombre": "HEXAGON MINING",
+        "delta_x_promedio": 26.8,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 31.7
+    },
+    {
+        "cliente_id": 296,
+        "cliente_nombre": "SALFA MANTENCIONES",
+        "delta_x_promedio": 100.9,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 46.9
+    },
+    {
+        "cliente_id": 548,
+        "cliente_nombre": "Metso Industrial Services SpA",
+        "delta_x_promedio": 43.7,
+        "delta_y_promedio": 3.5,
+        "delta_z_promedio": 25.5
+    },
+    {
+        "cliente_id": 705,
+        "cliente_nombre": "KOMATSU CUMMINS CHILE LTDA.",
+        "delta_x_promedio": 43.1,
+        "delta_y_promedio": 0.1,
+        "delta_z_promedio": 28.8
+    },
+    {
+        "cliente_id": 979,
+        "cliente_nombre": "MINERA SAN CRISTOBAL S.A",
+        "delta_x_promedio": 18.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 22.0
+    },
+    {
+        "cliente_id": 227,
+        "cliente_nombre": "KONECRANES",
+        "delta_x_promedio": 28.1,
+        "delta_y_promedio": 2.2,
+        "delta_z_promedio": 26.5
+    },
+    {
+        "cliente_id": 164,
+        "cliente_nombre": "ENAEX S.A.",
+        "delta_x_promedio": 48.7,
+        "delta_y_promedio": 1.7,
+        "delta_z_promedio": 32.4
+    },
+    {
+        "cliente_id": 134,
+        "cliente_nombre": "CONYMET",
+        "delta_x_promedio": 23.4,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 44.7
+    },
+    {
+        "cliente_id": 1010,
+        "cliente_nombre": "PARWA LTDA",
+        "delta_x_promedio": 43.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 308,
+        "cliente_nombre": "Sgs Chile Limitada",
+        "delta_x_promedio": 28.7,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 48.4
+    },
+    {
+        "cliente_id": 394,
+        "cliente_nombre": "Consorcio Servasol MPM Limitada",
+        "delta_x_promedio": 17.4,
+        "delta_y_promedio": 1.4,
+        "delta_z_promedio": 36.2
+    },
+    {
+        "cliente_id": 340,
+        "cliente_nombre": "TECNOLOGIAS COBRA LIMITADA",
+        "delta_x_promedio": 42.2,
+        "delta_y_promedio": 4.5,
+        "delta_z_promedio": 46.2
+    },
+    {
+        "cliente_id": 459,
+        "cliente_nombre": "REPORT",
+        "delta_x_promedio": 37.3,
+        "delta_y_promedio": 1.8,
+        "delta_z_promedio": 24.7
+    },
+    {
+        "cliente_id": 973,
+        "cliente_nombre": "North Services Ingeniería Limitada",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 5.3
+    },
+    {
+        "cliente_id": 1011,
+        "cliente_nombre": "Transbuild SPA.",
+        "delta_x_promedio": 12.4,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 995,
+        "cliente_nombre": "GEO-3 EIRL",
+        "delta_x_promedio": 81.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 398,
+        "cliente_nombre": "SOMACOR S.A.",
+        "delta_x_promedio": 10.1,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 85.7
+    },
+    {
+        "cliente_id": 136,
+        "cliente_nombre": "CORPORACION MUNICIPAL DE DESARROLLO SOCIAL DE CALAMA",
+        "delta_x_promedio": 38.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 20.2
+    },
+    {
+        "cliente_id": 1013,
+        "cliente_nombre": "SOCIEDAD COMERCIAL DE TRANSPORTES ICT LTDA ",
+        "delta_x_promedio": 17.2,
+        "delta_y_promedio": 2.2,
+        "delta_z_promedio": 57.2
+    },
+    {
+        "cliente_id": 422,
+        "cliente_nombre": "Inversiones Impacto",
+        "delta_x_promedio": 51.3,
+        "delta_y_promedio": 1.7,
+        "delta_z_promedio": 50.0
+    },
+    {
+        "cliente_id": 886,
+        "cliente_nombre": "Trek Rental",
+        "delta_x_promedio": 58.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 73.0
+    },
+    {
+        "cliente_id": 963,
+        "cliente_nombre": "SIGMA S.A",
+        "delta_x_promedio": 13.2,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 48.6
+    },
+    {
+        "cliente_id": 153,
+        "cliente_nombre": "ECORA",
+        "delta_x_promedio": 28.9,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 68.1
+    },
+    {
+        "cliente_id": 181,
+        "cliente_nombre": "GUIÑEZ INGENIERIA LTDA",
+        "delta_x_promedio": 22.2,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 29.2
+    },
+    {
+        "cliente_id": 696,
+        "cliente_nombre": "TRAIN LTDA. ",
+        "delta_x_promedio": 14.5,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 14.3
+    },
+    {
+        "cliente_id": 405,
+        "cliente_nombre": "FCAB",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 17.4
+    },
+    {
+        "cliente_id": 1015,
+        "cliente_nombre": "Luis Poblete Gutierrez",
+        "delta_x_promedio": 41.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 219,
+        "cliente_nombre": "JC SERVICIOS",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 21.0
+    },
+    {
+        "cliente_id": 573,
+        "cliente_nombre": "Conveyor Belt Technology",
+        "delta_x_promedio": 19.9,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 50.2
+    },
+    {
+        "cliente_id": 265,
+        "cliente_nombre": "New Tech Copper S.P.A.",
+        "delta_x_promedio": 26.0,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 28.1
+    },
+    {
+        "cliente_id": 1016,
+        "cliente_nombre": "Rodrigo Andres Jaramillo Diaz",
+        "delta_x_promedio": 161.0,
+        "delta_y_promedio": 6.0,
+        "delta_z_promedio": 38.0
+    },
+    {
+        "cliente_id": 695,
+        "cliente_nombre": "L&H INDUSTRIAL CHILE",
+        "delta_x_promedio": 16.3,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 32.9
+    },
+    {
+        "cliente_id": 421,
+        "cliente_nombre": "CONSTRUCTORA BAICAL",
+        "delta_x_promedio": 21.2,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 40.0
+    },
+    {
+        "cliente_id": 336,
+        "cliente_nombre": "Tattersall S.A.",
+        "delta_x_promedio": 10.7,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 38.5
+    },
+    {
+        "cliente_id": 240,
+        "cliente_nombre": "MB INGENIERIA",
+        "delta_x_promedio": 17.9,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 28.7
+    },
+    {
+        "cliente_id": 1017,
+        "cliente_nombre": "EBCO S.A",
+        "delta_x_promedio": 54.1,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 34.7
+    },
+    {
+        "cliente_id": 451,
+        "cliente_nombre": "INGEAP",
+        "delta_x_promedio": 8.8,
+        "delta_y_promedio": 1.4,
+        "delta_z_promedio": 13.7
+    },
+    {
+        "cliente_id": 683,
+        "cliente_nombre": "Minera Lomas Bayas",
+        "delta_x_promedio": 27.9,
+        "delta_y_promedio": 5.7,
+        "delta_z_promedio": 62.4
+    },
+    {
+        "cliente_id": 232,
+        "cliente_nombre": "LIEBHERR",
+        "delta_x_promedio": 25.1,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 37.3
+    },
+    {
+        "cliente_id": 1018,
+        "cliente_nombre": "TYD Global EIRL",
+        "delta_x_promedio": 23.3,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 75.7
+    },
+    {
+        "cliente_id": 400,
+        "cliente_nombre": "OTRACO CHILE S.A.",
+        "delta_x_promedio": 32.9,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 27.9
+    },
+    {
+        "cliente_id": 757,
+        "cliente_nombre": "CONSTRUCTORA PEHUENCHE LTDA",
+        "delta_x_promedio": 29.5,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 36.2
+    },
+    {
+        "cliente_id": 822,
+        "cliente_nombre": "LUAGHER SPA",
+        "delta_x_promedio": 12.7,
+        "delta_y_promedio": 2.1,
+        "delta_z_promedio": 18.7
+    },
+    {
+        "cliente_id": 131,
+        "cliente_nombre": "CONTITECH CHILE S.A",
+        "delta_x_promedio": 24.0,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 42.9
+    },
+    {
+        "cliente_id": 1019,
+        "cliente_nombre": "MAGRAING CHILE SPA",
+        "delta_x_promedio": 11.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 565,
+        "cliente_nombre": "Emin",
+        "delta_x_promedio": 34.7,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 26.4
+    },
+    {
+        "cliente_id": 660,
+        "cliente_nombre": "PROACTIVE SPA",
+        "delta_x_promedio": 17.5,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 37.0
+    },
+    {
+        "cliente_id": 490,
+        "cliente_nombre": "VYS",
+        "delta_x_promedio": 7.3,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 43.3
+    },
+    {
+        "cliente_id": 1022,
+        "cliente_nombre": "Ambipar Response",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 0.2,
+        "delta_z_promedio": 47.5
+    },
+    {
+        "cliente_id": 700,
+        "cliente_nombre": "EMPRESA CONSTRUCTORA GUZMAN Y LARRAIN LTDA",
+        "delta_x_promedio": 12.0,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 40.2
+    },
+    {
+        "cliente_id": 1023,
+        "cliente_nombre": "MAXIMETAL SPA",
+        "delta_x_promedio": 27.2,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 1003,
+        "cliente_nombre": "ESM SPA",
+        "delta_x_promedio": 29.2,
+        "delta_y_promedio": 1.7,
+        "delta_z_promedio": 33.2
+    },
+    {
+        "cliente_id": 172,
+        "cliente_nombre": "FINNING",
+        "delta_x_promedio": 39.2,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 30.2
+    },
+    {
+        "cliente_id": 753,
+        "cliente_nombre": "FAM AMERICA LATINA MAQUINARIAS LIMITADA",
+        "delta_x_promedio": 23.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 299,
+        "cliente_nombre": "SEMAR",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 48.0
+    },
+    {
+        "cliente_id": 165,
+        "cliente_nombre": "ENAEX SERVICIOS S.A",
+        "delta_x_promedio": 39.0,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 32.6
+    },
+    {
+        "cliente_id": 441,
+        "cliente_nombre": "CIVELEC",
+        "delta_x_promedio": 6.7,
+        "delta_y_promedio": 2.3,
+        "delta_z_promedio": 125.0
+    },
+    {
+        "cliente_id": 984,
+        "cliente_nombre": "FLSMIDTH S.A.",
+        "delta_x_promedio": 29.7,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 34.8
+    },
+    {
+        "cliente_id": 1024,
+        "cliente_nombre": "FERRONOR S.A.",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 37.5
+    },
+    {
+        "cliente_id": 879,
+        "cliente_nombre": "Almar Water Servicios Latam S.A.",
+        "delta_x_promedio": 40.2,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 42.0
+    },
+    {
+        "cliente_id": 514,
+        "cliente_nombre": "MARTINIC",
+        "delta_x_promedio": 10.3,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 5.3
+    },
+    {
+        "cliente_id": 125,
+        "cliente_nombre": "Compass Catering S.A",
+        "delta_x_promedio": 53.3,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 10.6
+    },
+    {
+        "cliente_id": 563,
+        "cliente_nombre": "Mincon Chile S.a.",
+        "delta_x_promedio": 19.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 34.5
+    },
+    {
+        "cliente_id": 454,
+        "cliente_nombre": "IMG",
+        "delta_x_promedio": 39.7,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 43.6
+    },
+    {
+        "cliente_id": 198,
+        "cliente_nombre": "ICL",
+        "delta_x_promedio": 35.6,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 56.6
+    },
+    {
+        "cliente_id": 1026,
+        "cliente_nombre": "Quiborax",
+        "delta_x_promedio": 57.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 35.0
+    },
+    {
+        "cliente_id": 1028,
+        "cliente_nombre": "SANDVIK CHLE ",
+        "delta_x_promedio": 49.7,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 34.7
+    },
+    {
+        "cliente_id": 802,
+        "cliente_nombre": "RADIOSKY",
+        "delta_x_promedio": 12.7,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 697,
+        "cliente_nombre": "ALBEMARLE LIMITADA",
+        "delta_x_promedio": 112.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 22.6
+    },
+    {
+        "cliente_id": 1027,
+        "cliente_nombre": "CONSORCIO TNT VIAL Y VIVES – DSD CHILE LIMITADA",
+        "delta_x_promedio": 26.5,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 55.1
+    },
+    {
+        "cliente_id": 179,
+        "cliente_nombre": "GLOBAL SERVICE",
+        "delta_x_promedio": 42.4,
+        "delta_y_promedio": 0.2,
+        "delta_z_promedio": 35.0
+    },
+    {
+        "cliente_id": 384,
+        "cliente_nombre": "GYT Servicios Integrales SpA",
+        "delta_x_promedio": 12.9,
+        "delta_y_promedio": 0.4,
+        "delta_z_promedio": 3.1
+    },
+    {
+        "cliente_id": 1029,
+        "cliente_nombre": "COMTECSA",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 613,
+        "cliente_nombre": "TRANSPORTES CVU",
+        "delta_x_promedio": 37.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 57.0
+    },
+    {
+        "cliente_id": 559,
+        "cliente_nombre": "R&Q Ingeniería S.A. ",
+        "delta_x_promedio": 58.4,
+        "delta_y_promedio": 3.3,
+        "delta_z_promedio": 32.5
+    },
+    {
+        "cliente_id": 1030,
+        "cliente_nombre": "REMSA SPA",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 2.1,
+        "delta_z_promedio": 20.7
+    },
+    {
+        "cliente_id": 1031,
+        "cliente_nombre": "GLOBAL ICE SPA",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 839,
+        "cliente_nombre": "EMPRESA CONSTRUCTORA BELFI S.A.",
+        "delta_x_promedio": 41.2,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 33.5
+    },
+    {
+        "cliente_id": 1032,
+        "cliente_nombre": "SEGURISUR MEDICAL",
+        "delta_x_promedio": 11.8,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 11.3
+    },
+    {
+        "cliente_id": 362,
+        "cliente_nombre": "WESTFIRE SUDAMERICA SPA",
+        "delta_x_promedio": 36.9,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 43.7
+    },
+    {
+        "cliente_id": 148,
+        "cliente_nombre": "DTSA",
+        "delta_x_promedio": 47.6,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 30.9
+    },
+    {
+        "cliente_id": 99,
+        "cliente_nombre": "BESALCO MD MONTAJES S.A.",
+        "delta_x_promedio": 55.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 41.0
+    },
+    {
+        "cliente_id": 720,
+        "cliente_nombre": "NOKIA",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 45.5
+    },
+    {
+        "cliente_id": 207,
+        "cliente_nombre": "INGETEAM",
+        "delta_x_promedio": 10.7,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 968,
+        "cliente_nombre": "Paramount Gruas S.A.",
+        "delta_x_promedio": 9.8,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 44.1
+    },
+    {
+        "cliente_id": 464,
+        "cliente_nombre": "Comercializadora Fourthane Ltda.",
+        "delta_x_promedio": 20.5,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 35.9
+    },
+    {
+        "cliente_id": 914,
+        "cliente_nombre": "SOC. CONTRACTUAL MINERA EL ABRA",
+        "delta_x_promedio": 90.0,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 28.0
+    },
+    {
+        "cliente_id": 842,
+        "cliente_nombre": "VISAUCO SERVICE SPA",
+        "delta_x_promedio": 14.9,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 36.6
+    },
+    {
+        "cliente_id": 1033,
+        "cliente_nombre": "NOKIA",
+        "delta_x_promedio": 18.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 396,
+        "cliente_nombre": "TORMETAL",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 94.2
+    },
+    {
+        "cliente_id": 1034,
+        "cliente_nombre": "Algoritmos Spa",
+        "delta_x_promedio": 14.4,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 47.2
+    },
+    {
+        "cliente_id": 744,
+        "cliente_nombre": "SODEXO CHILE SPA",
+        "delta_x_promedio": 95.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 37.5
+    },
+    {
+        "cliente_id": 805,
+        "cliente_nombre": "TERMINAL PUERTO ARICA S.A.",
+        "delta_x_promedio": 13.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 36.0
+    },
+    {
+        "cliente_id": 1004,
+        "cliente_nombre": "SAAVEDRA Y ABALO MYS SPA",
+        "delta_x_promedio": 11.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 15.0
+    },
+    {
+        "cliente_id": 316,
+        "cliente_nombre": "SK INDUSTRIAL",
+        "delta_x_promedio": 50.0,
+        "delta_y_promedio": 3.4,
+        "delta_z_promedio": 42.8
+    },
+    {
+        "cliente_id": 215,
+        "cliente_nombre": "INVERSIONES KALLPA SPA",
+        "delta_x_promedio": 35.0,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 21.4
+    },
+    {
+        "cliente_id": 844,
+        "cliente_nombre": "BIBARO SPA",
+        "delta_x_promedio": 22.5,
+        "delta_y_promedio": 4.5,
+        "delta_z_promedio": 9.0
+    },
+    {
+        "cliente_id": 1037,
+        "cliente_nombre": "PRM",
+        "delta_x_promedio": 40.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 13.0
+    },
+    {
+        "cliente_id": 1038,
+        "cliente_nombre": "FairWind Chile SPA",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 20.0
+    },
+    {
+        "cliente_id": 1040,
+        "cliente_nombre": "CIMAPRIME SPA",
+        "delta_x_promedio": 47.9,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 35.8
+    },
+    {
+        "cliente_id": 1039,
+        "cliente_nombre": "ARAYA BRIONES LIMITADA",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 12.0
+    },
+    {
+        "cliente_id": 624,
+        "cliente_nombre": "VELMAR LTDA",
+        "delta_x_promedio": 38.8,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 1041,
+        "cliente_nombre": "Geoassay",
+        "delta_x_promedio": 16.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 202.0
+    },
+    {
+        "cliente_id": 764,
+        "cliente_nombre": "INGENIERIA Y CONTRUCCION FRANCIS DANIEL OJEDA ROJAS E.I.R.L",
+        "delta_x_promedio": 13.8,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 40.2
+    },
+    {
+        "cliente_id": 1043,
+        "cliente_nombre": "IROMA",
+        "delta_x_promedio": 11.2,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 5.0
+    },
+    {
+        "cliente_id": 1042,
+        "cliente_nombre": "Empresa Seguridad Integral Arcangeli Spa.",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 131.0
+    },
+    {
+        "cliente_id": 1044,
+        "cliente_nombre": "INGENIERIA Y SERVICIOS A LA MINERIA MDP LTDA",
+        "delta_x_promedio": 23.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 55.0
+    },
+    {
+        "cliente_id": 1045,
+        "cliente_nombre": "Electritec Spa",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 38.0
+    },
+    {
+        "cliente_id": 1046,
+        "cliente_nombre": "Global Clean",
+        "delta_x_promedio": 5.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 13.0
+    },
+    {
+        "cliente_id": 1047,
+        "cliente_nombre": "MAGOTTEAUX CHILE S.A.",
+        "delta_x_promedio": 40.2,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 41.4
+    },
+    {
+        "cliente_id": 491,
+        "cliente_nombre": "EXPERTICIA INGENIEROS S.A.",
+        "delta_x_promedio": 19.4,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 32.4
+    },
+    {
+        "cliente_id": 1048,
+        "cliente_nombre": "ATLAS COPCO CHILE SPA",
+        "delta_x_promedio": 25.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 27.0
+    },
+    {
+        "cliente_id": 133,
+        "cliente_nombre": "CONVEYOR BELT",
+        "delta_x_promedio": 34.7,
+        "delta_y_promedio": 3.7,
+        "delta_z_promedio": 63.3
+    },
+    {
+        "cliente_id": 887,
+        "cliente_nombre": "EXPORT METALS LIMITADA",
+        "delta_x_promedio": 13.8,
+        "delta_y_promedio": 1.8,
+        "delta_z_promedio": 44.0
+    },
+    {
+        "cliente_id": 338,
+        "cliente_nombre": "TECNASIC",
+        "delta_x_promedio": 12.5,
+        "delta_y_promedio": 26.0,
+        "delta_z_promedio": 40.0
+    },
+    {
+        "cliente_id": 1049,
+        "cliente_nombre": "OS-SERVICE SPA",
+        "delta_x_promedio": 23.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 193,
+        "cliente_nombre": "HIGH VOLTAGE LTDA",
+        "delta_x_promedio": 28.3,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 24.0
+    },
+    {
+        "cliente_id": 741,
+        "cliente_nombre": "JEJ Ingeniería S.A.",
+        "delta_x_promedio": 31.0,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 35.7
+    },
+    {
+        "cliente_id": 267,
+        "cliente_nombre": "NORACID S.A.",
+        "delta_x_promedio": 44.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 27.0
+    },
+    {
+        "cliente_id": 527,
+        "cliente_nombre": "SERVISUB",
+        "delta_x_promedio": 3.2,
+        "delta_y_promedio": 2.2,
+        "delta_z_promedio": 31.7
+    },
+    {
+        "cliente_id": 213,
+        "cliente_nombre": "INTSERCOM",
+        "delta_x_promedio": 9.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 29.0
+    },
+    {
+        "cliente_id": 551,
+        "cliente_nombre": "PSINet",
+        "delta_x_promedio": 2.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 104.0
+    },
+    {
+        "cliente_id": 642,
+        "cliente_nombre": "ANDRES GREGORIO VALENCIA OSSANDON",
+        "delta_x_promedio": 2.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1050,
+        "cliente_nombre": "Algorta Norte S.A.",
+        "delta_x_promedio": 55.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 6.0
+    },
+    {
+        "cliente_id": 317,
+        "cliente_nombre": "SK INDUSTRIAL S.A",
+        "delta_x_promedio": 43.9,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 35.6
+    },
+    {
+        "cliente_id": 256,
+        "cliente_nombre": "INGENIERIA ELECTRICA MONTELEC SPA",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 63.0
+    },
+    {
+        "cliente_id": 309,
+        "cliente_nombre": "SGS MINERALS S.A.",
+        "delta_x_promedio": 26.8,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 44.8
+    },
+    {
+        "cliente_id": 836,
+        "cliente_nombre": "Servicios y Proyectos Ambientales S.A",
+        "delta_x_promedio": 34.9,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 34.1
+    },
+    {
+        "cliente_id": 546,
+        "cliente_nombre": "AXINNTUS",
+        "delta_x_promedio": 35.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 41.0
+    },
+    {
+        "cliente_id": 688,
+        "cliente_nombre": "Beagle",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 11.0
+    },
+    {
+        "cliente_id": 794,
+        "cliente_nombre": "SERMYJOR LTDA",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 27.0
+    },
+    {
+        "cliente_id": 1051,
+        "cliente_nombre": "HYDROIONIC",
+        "delta_x_promedio": 2.3,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 21.3
+    },
+    {
+        "cliente_id": 1052,
+        "cliente_nombre": "Contac Ingenieros Limitada",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 787,
+        "cliente_nombre": "IMT",
+        "delta_x_promedio": 12.4,
+        "delta_y_promedio": 14.5,
+        "delta_z_promedio": 74.2
+    },
+    {
+        "cliente_id": 1001,
+        "cliente_nombre": "Grupo Gordillo",
+        "delta_x_promedio": 20.7,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 35.7
+    },
+    {
+        "cliente_id": 184,
+        "cliente_nombre": "H-E PARTS INTERNATIONAL CHILE SPA",
+        "delta_x_promedio": 28.7,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 35.3
+    },
+    {
+        "cliente_id": 120,
+        "cliente_nombre": "COASIN",
+        "delta_x_promedio": 55.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 37.0
+    },
+    {
+        "cliente_id": 1054,
+        "cliente_nombre": "DAMTEC",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 57.0
+    },
+    {
+        "cliente_id": 975,
+        "cliente_nombre": "APRO LTDA",
+        "delta_x_promedio": 24.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 20.0
+    },
+    {
+        "cliente_id": 1058,
+        "cliente_nombre": "OHS PASCAL SPA",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 6.0,
+        "delta_z_promedio": 11.0
+    },
+    {
+        "cliente_id": 1059,
+        "cliente_nombre": "TELEFONICA IOT Y BIG DATA TECH CHILE SPA",
+        "delta_x_promedio": 16.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 92,
+        "cliente_nombre": "ATLAS COPCO",
+        "delta_x_promedio": 25.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 44.7
+    },
+    {
+        "cliente_id": 281,
+        "cliente_nombre": "PROMEC CHILE SPA",
+        "delta_x_promedio": 58.4,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 33.6
+    },
+    {
+        "cliente_id": 285,
+        "cliente_nombre": "RELIX S.A",
+        "delta_x_promedio": 7.4,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 48.1
+    },
+    {
+        "cliente_id": 1060,
+        "cliente_nombre": "GRUPO PARAMO",
+        "delta_x_promedio": 14.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 25.0
+    },
+    {
+        "cliente_id": 1061,
+        "cliente_nombre": "Bemax servicios spa",
+        "delta_x_promedio": 6.6,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 28.2
+    },
+    {
+        "cliente_id": 1063,
+        "cliente_nombre": "AGRÍCOLA SAN CLEMENTE LTDA.",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 10.0,
+        "delta_z_promedio": 12.0
+    },
+    {
+        "cliente_id": 1062,
+        "cliente_nombre": "IIC Mining Technologies SpA",
+        "delta_x_promedio": 8.4,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 14.4
+    },
+    {
+        "cliente_id": 1064,
+        "cliente_nombre": "R Y T SERVICIOS DE INGENIERIA ",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 24.7
+    },
+    {
+        "cliente_id": 998,
+        "cliente_nombre": "STN",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 30.6
+    },
+    {
+        "cliente_id": 888,
+        "cliente_nombre": "CONACSA ",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 22.0
+    },
+    {
+        "cliente_id": 1069,
+        "cliente_nombre": "CHILE FORTESCUE SPA",
+        "delta_x_promedio": 24.0,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 38.0
+    },
+    {
+        "cliente_id": 525,
+        "cliente_nombre": "CRIBACH",
+        "delta_x_promedio": 14.3,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 13.7
+    },
+    {
+        "cliente_id": 73,
+        "cliente_nombre": "AGUASIN SPA",
+        "delta_x_promedio": 65.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 1071,
+        "cliente_nombre": "CONSTRUCTORA TECTON SPA",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 95.1
+    },
+    {
+        "cliente_id": 302,
+        "cliente_nombre": "SERGOMET LIMITADA",
+        "delta_x_promedio": 16.0,
+        "delta_y_promedio": 3.5,
+        "delta_z_promedio": 82.0
+    },
+    {
+        "cliente_id": 1073,
+        "cliente_nombre": "ASITEL",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 32.0
+    },
+    {
+        "cliente_id": 602,
+        "cliente_nombre": "VOLTA SPA",
+        "delta_x_promedio": 8.2,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 68.5
+    },
+    {
+        "cliente_id": 993,
+        "cliente_nombre": "AMBIPAR",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 46.7
+    },
+    {
+        "cliente_id": 1074,
+        "cliente_nombre": "SKYBYTE INGENIERIA",
+        "delta_x_promedio": 17.7,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 26.7
+    },
+    {
+        "cliente_id": 545,
+        "cliente_nombre": "ALTONORTE",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 19.0
+    },
+    {
+        "cliente_id": 1085,
+        "cliente_nombre": "CUERPO DE BOMBEROS ANTOFAGASTA",
+        "delta_x_promedio": 30.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 14.0
+    },
+    {
+        "cliente_id": 941,
+        "cliente_nombre": "FUNDICION",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 72.3
+    },
+    {
+        "cliente_id": 743,
+        "cliente_nombre": "TICV Ltda",
+        "delta_x_promedio": 0.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 33.0
+    },
+    {
+        "cliente_id": 746,
+        "cliente_nombre": "ENGIE GAS CHILE SPA",
+        "delta_x_promedio": 53.7,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 31.2
+    },
+    {
+        "cliente_id": 1083,
+        "cliente_nombre": "Fenix Ingenieria y Servicios Ltda",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 9.0
+    },
+    {
+        "cliente_id": 957,
+        "cliente_nombre": "RyC SPA",
+        "delta_x_promedio": 9.7,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 16.3
+    },
+    {
+        "cliente_id": 1084,
+        "cliente_nombre": "CVC Ingenieria S.A",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 9.0
+    },
+    {
+        "cliente_id": 1077,
+        "cliente_nombre": "Transportes y Logistica  Anterra Ltda",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 42.0
+    },
+    {
+        "cliente_id": 1076,
+        "cliente_nombre": "Transportes Walton Ltda.",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 21.0
+    },
+    {
+        "cliente_id": 1080,
+        "cliente_nombre": "Servicios Logisticos Norte Grande SPA",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 20.0
+    },
+    {
+        "cliente_id": 1075,
+        "cliente_nombre": "Sociedad Francisco Solano Muñoz Vilches e Hijos Ltda.",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 21.0
+    },
+    {
+        "cliente_id": 1079,
+        "cliente_nombre": "Transporte Serivicios y Venta de Insumos Sepulvada SPA",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 36.0
+    },
+    {
+        "cliente_id": 1078,
+        "cliente_nombre": "Sociedad de Transportes Mabeco Ltda.",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 21.0
+    },
+    {
+        "cliente_id": 1081,
+        "cliente_nombre": "Inversiones Impacto SA",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 2.5,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 1091,
+        "cliente_nombre": "SIMSA",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 99.0
+    },
+    {
+        "cliente_id": 520,
+        "cliente_nombre": "HELLEMAHOLLAND",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 62.5
+    },
+    {
+        "cliente_id": 518,
+        "cliente_nombre": "RL TRANSPORTES",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 42.0
+    },
+    {
+        "cliente_id": 276,
+        "cliente_nombre": "PRECISION",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 54.0
+    },
+    {
+        "cliente_id": 1094,
+        "cliente_nombre": "Siges Chile Spa",
+        "delta_x_promedio": 70.2,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 24.2
+    },
+    {
+        "cliente_id": 1088,
+        "cliente_nombre": "CONFIPETROL",
+        "delta_x_promedio": 26.1,
+        "delta_y_promedio": 2.4,
+        "delta_z_promedio": 35.5
+    },
+    {
+        "cliente_id": 249,
+        "cliente_nombre": "MINERA CENTINELA",
+        "delta_x_promedio": 27.9,
+        "delta_y_promedio": 2.6,
+        "delta_z_promedio": 22.2
+    },
+    {
+        "cliente_id": 976,
+        "cliente_nombre": "CASIA TECH",
+        "delta_x_promedio": 12.8,
+        "delta_y_promedio": 1.8,
+        "delta_z_promedio": 32.0
+    },
+    {
+        "cliente_id": 962,
+        "cliente_nombre": "COSTELLA PROYECTOS S.A.",
+        "delta_x_promedio": 28.6,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 21.1
+    },
+    {
+        "cliente_id": 966,
+        "cliente_nombre": "TUNNING INGENIERIA SPA",
+        "delta_x_promedio": 15.8,
+        "delta_y_promedio": 1.4,
+        "delta_z_promedio": 36.2
+    },
+    {
+        "cliente_id": 1093,
+        "cliente_nombre": "CAPITAL MINING",
+        "delta_x_promedio": 16.7,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 10.0
+    },
+    {
+        "cliente_id": 1097,
+        "cliente_nombre": "Powerchina",
+        "delta_x_promedio": 67.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 15.0
+    },
+    {
+        "cliente_id": 235,
+        "cliente_nombre": "MILTON SALVADOR ASTUDILLO CAPETILLO",
+        "delta_x_promedio": 25.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 14.2
+    },
+    {
+        "cliente_id": 1096,
+        "cliente_nombre": "JARDÍN FLORISTERÍA LAS PARINAS",
+        "delta_x_promedio": 12.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 15.0
+    },
+    {
+        "cliente_id": 1098,
+        "cliente_nombre": "Acciona ",
+        "delta_x_promedio": 42.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 74.0
+    },
+    {
+        "cliente_id": 704,
+        "cliente_nombre": "KOMATSU HOLDING SOUTH AMERICA LTDA.",
+        "delta_x_promedio": 25.7,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 29.0
+    },
+    {
+        "cliente_id": 1092,
+        "cliente_nombre": "AMECO CHILE S.A",
+        "delta_x_promedio": 16.2,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 54.7
+    },
+    {
+        "cliente_id": 1101,
+        "cliente_nombre": "B3DTEC",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 21.5
+    },
+    {
+        "cliente_id": 503,
+        "cliente_nombre": "CADETECH",
+        "delta_x_promedio": 11.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 34.2
+    },
+    {
+        "cliente_id": 721,
+        "cliente_nombre": "MAQUINARIA ICV",
+        "delta_x_promedio": 40.2,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 29.5
+    },
+    {
+        "cliente_id": 1102,
+        "cliente_nombre": "AQUASERVICES LTDA.",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 41.0
+    },
+    {
+        "cliente_id": 94,
+        "cliente_nombre": "AVA MONTAJES",
+        "delta_x_promedio": 25.1,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 44.1
+    },
+    {
+        "cliente_id": 788,
+        "cliente_nombre": "CONSTRUCTORA MSA SPA",
+        "delta_x_promedio": 14.4,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 25.6
+    },
+    {
+        "cliente_id": 556,
+        "cliente_nombre": "Nexxo",
+        "delta_x_promedio": 57.4,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 15.1
+    },
+    {
+        "cliente_id": 1103,
+        "cliente_nombre": "XEL XERVICES",
+        "delta_x_promedio": 33.2,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 14.0
+    },
+    {
+        "cliente_id": 1099,
+        "cliente_nombre": "HOSCH",
+        "delta_x_promedio": 17.5,
+        "delta_y_promedio": 30.5,
+        "delta_z_promedio": 30.5
+    },
+    {
+        "cliente_id": 1104,
+        "cliente_nombre": "ORBE CORP",
+        "delta_x_promedio": 15.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 76.0
+    },
+    {
+        "cliente_id": 224,
+        "cliente_nombre": "KAL TIRE S.A",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 33.0
+    },
+    {
+        "cliente_id": 1105,
+        "cliente_nombre": "INGEMARS",
+        "delta_x_promedio": 15.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 982,
+        "cliente_nombre": "ST Ingeniería Ltda",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 17.0
+    },
+    {
+        "cliente_id": 1106,
+        "cliente_nombre": "Convergint",
+        "delta_x_promedio": 13.0,
+        "delta_y_promedio": 0.9,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 269,
+        "cliente_nombre": "ORBIT GARANT",
+        "delta_x_promedio": 16.3,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 25.8
+    },
+    {
+        "cliente_id": 690,
+        "cliente_nombre": "Codelco",
+        "delta_x_promedio": 54.2,
+        "delta_y_promedio": 0.1,
+        "delta_z_promedio": 22.6
+    },
+    {
+        "cliente_id": 801,
+        "cliente_nombre": "ENGIE STREAM SOLUTIONS CHILE S.P.A. ",
+        "delta_x_promedio": 13.6,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 5.2
+    },
+    {
+        "cliente_id": 1109,
+        "cliente_nombre": "QSAT TELECOM SPA",
+        "delta_x_promedio": 11.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 872,
+        "cliente_nombre": "TECIC",
+        "delta_x_promedio": 25.3,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 48.7
+    },
+    {
+        "cliente_id": 1120,
+        "cliente_nombre": "TRANSPORTE REYMAD SPA",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 1117,
+        "cliente_nombre": "MUELLAJE SVTI S.A.",
+        "delta_x_promedio": 21.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 5.0
+    },
+    {
+        "cliente_id": 186,
+        "cliente_nombre": "HIDRAULICA CALAMA SPA",
+        "delta_x_promedio": 19.7,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 38.3
+    },
+    {
+        "cliente_id": 869,
+        "cliente_nombre": "EQUANS",
+        "delta_x_promedio": 50.2,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 76.6
+    },
+    {
+        "cliente_id": 130,
+        "cliente_nombre": "CONSTRUCTORA CERRO NEVADO S.A.",
+        "delta_x_promedio": 12.0,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 41.7
+    },
+    {
+        "cliente_id": 597,
+        "cliente_nombre": "MAESTRANZA DIESEL",
+        "delta_x_promedio": 26.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 45.0
+    },
+    {
+        "cliente_id": 870,
+        "cliente_nombre": "Aiko Logic SpA",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 13.0,
+        "delta_z_promedio": 13.2
+    },
+    {
+        "cliente_id": 140,
+        "cliente_nombre": "DETROIT S.A.",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 57.0
+    },
+    {
+        "cliente_id": 1131,
+        "cliente_nombre": "INACAL S.A.",
+        "delta_x_promedio": 30.6,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 38.6
+    },
+    {
+        "cliente_id": 1122,
+        "cliente_nombre": "Icafal",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 775,
+        "cliente_nombre": "Sermincho ",
+        "delta_x_promedio": 17.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 35.0
+    },
+    {
+        "cliente_id": 1128,
+        "cliente_nombre": "SCM Minera Lumina Copper Chile ",
+        "delta_x_promedio": 24.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 51.0
+    },
+    {
+        "cliente_id": 1124,
+        "cliente_nombre": "CRPROJECT SPA",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 22.0
+    },
+    {
+        "cliente_id": 1126,
+        "cliente_nombre": "Consorcio CDZ Ingeniería Uno Limitada",
+        "delta_x_promedio": 59.0,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 32.5
+    },
+    {
+        "cliente_id": 1067,
+        "cliente_nombre": "Asesorías Salazar Alvarado Spa",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 138,
+        "cliente_nombre": "DERK INGENIERIA GEOLOGIA Y SERVICIOS",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 33.0
+    },
+    {
+        "cliente_id": 780,
+        "cliente_nombre": "DELEGACIÓN PRESIDENCIAL REGIONAL DE ANTOFAGASTA",
+        "delta_x_promedio": 36.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 406,
+        "cliente_nombre": "Gendarmeria",
+        "delta_x_promedio": 29.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 16.0
+    },
+    {
+        "cliente_id": 1129,
+        "cliente_nombre": "RECIMAT",
+        "delta_x_promedio": 68.4,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 16.0
+    },
+    {
+        "cliente_id": 659,
+        "cliente_nombre": "ATTREZZATURA SPA",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 14.0
+    },
+    {
+        "cliente_id": 482,
+        "cliente_nombre": "SOTRASER S.A",
+        "delta_x_promedio": 34.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 40.1
+    },
+    {
+        "cliente_id": 769,
+        "cliente_nombre": "SIEC LTDA",
+        "delta_x_promedio": 8.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 41.0
+    },
+    {
+        "cliente_id": 1132,
+        "cliente_nombre": "Empresa de Servicios Misckanti Limitada",
+        "delta_x_promedio": 9.3,
+        "delta_y_promedio": 4.7,
+        "delta_z_promedio": 19.2
+    },
+    {
+        "cliente_id": 65,
+        "cliente_nombre": " PUCARA S.A.",
+        "delta_x_promedio": 12.0,
+        "delta_y_promedio": 2.3,
+        "delta_z_promedio": 31.7
+    },
+    {
+        "cliente_id": 1133,
+        "cliente_nombre": "BIODIVERSA S.A.",
+        "delta_x_promedio": 35.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 24.0
+    },
+    {
+        "cliente_id": 832,
+        "cliente_nombre": "FERROSTAAL CHILE S.A.C.",
+        "delta_x_promedio": 31.5,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 31.0
+    },
+    {
+        "cliente_id": 126,
+        "cliente_nombre": "CONELEC",
+        "delta_x_promedio": 17.8,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 39.3
+    },
+    {
+        "cliente_id": 854,
+        "cliente_nombre": "Inppamet Ltda.",
+        "delta_x_promedio": 25.2,
+        "delta_y_promedio": 1.2,
+        "delta_z_promedio": 12.7
+    },
+    {
+        "cliente_id": 1135,
+        "cliente_nombre": "INNERGEX",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 2.4,
+        "delta_z_promedio": 26.4
+    },
+    {
+        "cliente_id": 1130,
+        "cliente_nombre": "LO CASTILLO GYM & WELLNESS SPA",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 1136,
+        "cliente_nombre": "Mine Class",
+        "delta_x_promedio": 33.5,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 12.0
+    },
+    {
+        "cliente_id": 1137,
+        "cliente_nombre": "Servicios Nettle Hermanos Limitada",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 5.0,
+        "delta_z_promedio": 36.0
+    },
+    {
+        "cliente_id": 1138,
+        "cliente_nombre": "Servicios A&C Ingeniería y Transportes Ltda",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 1139,
+        "cliente_nombre": "GEOSINERGIA",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 549,
+        "cliente_nombre": "MS MIN",
+        "delta_x_promedio": 13.4,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 6.0
+    },
+    {
+        "cliente_id": 1140,
+        "cliente_nombre": "FLAMEGROUP SPA",
+        "delta_x_promedio": 13.0,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 26.7
+    },
+    {
+        "cliente_id": 1141,
+        "cliente_nombre": "Insecap Capacitación",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 994,
+        "cliente_nombre": "LEICA GEOSYSTEMS",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 28.0
+    },
+    {
+        "cliente_id": 251,
+        "cliente_nombre": "MINERA SPENCE S.A.",
+        "delta_x_promedio": 87.2,
+        "delta_y_promedio": 0.8,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 1143,
+        "cliente_nombre": "SOC COM E IND TRANYMEC Y CIA LTDA",
+        "delta_x_promedio": 8.2,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 35.2
+    },
+    {
+        "cliente_id": 438,
+        "cliente_nombre": "MSTECK",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 35.0
+    },
+    {
+        "cliente_id": 1148,
+        "cliente_nombre": "Tecnología e Informática Interside Spa",
+        "delta_x_promedio": 12.0,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 72.5
+    },
+    {
+        "cliente_id": 1151,
+        "cliente_nombre": "PIMASA",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 29.0
+    },
+    {
+        "cliente_id": 1149,
+        "cliente_nombre": "Remin SPA",
+        "delta_x_promedio": 7.3,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 2.7
+    },
+    {
+        "cliente_id": 1154,
+        "cliente_nombre": "AGUNSA S.A.",
+        "delta_x_promedio": 53.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 20.0
+    },
+    {
+        "cliente_id": 748,
+        "cliente_nombre": "ELEC MON SPA",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1156,
+        "cliente_nombre": "Skill Group Spa ",
+        "delta_x_promedio": 17.8,
+        "delta_y_promedio": 1.9,
+        "delta_z_promedio": 22.4
+    },
+    {
+        "cliente_id": 1159,
+        "cliente_nombre": "Aires Epa Spa",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 487,
+        "cliente_nombre": "WELLFIELD SERVICES LTDA.",
+        "delta_x_promedio": 2.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 55.0
+    },
+    {
+        "cliente_id": 1160,
+        "cliente_nombre": "Comercializadora Dutro Limitada",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 650,
+        "cliente_nombre": "Air Products",
+        "delta_x_promedio": 38.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 43.5
+    },
+    {
+        "cliente_id": 750,
+        "cliente_nombre": "LICANCABUR SERVICIOS LIMITADA",
+        "delta_x_promedio": 62.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 11.0
+    },
+    {
+        "cliente_id": 969,
+        "cliente_nombre": "SyC",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1179,
+        "cliente_nombre": "Strabag-edilmac Desarrollos Verticales Spa",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 57.5
+    },
+    {
+        "cliente_id": 1180,
+        "cliente_nombre": "Kbn Spa",
+        "delta_x_promedio": 15.0,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 270,
+        "cliente_nombre": "ORICA CHILE S.A.",
+        "delta_x_promedio": 62.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 45.0
+    },
+    {
+        "cliente_id": 955,
+        "cliente_nombre": "Beltrami, Guzmán y Bahamondes Operaciones Industriales SpA",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 14.0
+    },
+    {
+        "cliente_id": 1196,
+        "cliente_nombre": "Maquinarias THM S.A.",
+        "delta_x_promedio": 33.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 41.0
+    },
+    {
+        "cliente_id": 1198,
+        "cliente_nombre": "L&R INGENIERIA Y CLIMATIZACION SPA",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 250,
+        "cliente_nombre": "CCC",
+        "delta_x_promedio": 27.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 26.0
+    },
+    {
+        "cliente_id": 1182,
+        "cliente_nombre": "Cicitem",
+        "delta_x_promedio": 25.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 939,
+        "cliente_nombre": "Transportes Michea SPA",
+        "delta_x_promedio": 22.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 31.0
+    },
+    {
+        "cliente_id": 803,
+        "cliente_nombre": "Engie",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 15.5
+    },
+    {
+        "cliente_id": 1199,
+        "cliente_nombre": "Rentokil Initial SPA",
+        "delta_x_promedio": 18.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 19.0
+    },
+    {
+        "cliente_id": 1203,
+        "cliente_nombre": "Servicios Industriales Integra",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 713,
+        "cliente_nombre": "REPARACIONES REPAIRCO LIMITADA",
+        "delta_x_promedio": 33.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 33.0
+    },
+    {
+        "cliente_id": 1211,
+        "cliente_nombre": "Vcv Testing",
+        "delta_x_promedio": 6.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1157,
+        "cliente_nombre": "Servifrio",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1146,
+        "cliente_nombre": "Associated Universities Inc",
+        "delta_x_promedio": 39.4,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 22.7
+    },
+    {
+        "cliente_id": 1214,
+        "cliente_nombre": "Ingenieria Horeb",
+        "delta_x_promedio": 12.7,
+        "delta_y_promedio": 0.3,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1224,
+        "cliente_nombre": "SOCIEDAD CONCESIONARIA GRUPO DOS S.A",
+        "delta_x_promedio": 31.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 17.5
+    },
+    {
+        "cliente_id": 1230,
+        "cliente_nombre": "Triconos Mineros ",
+        "delta_x_promedio": 12.3,
+        "delta_y_promedio": 0.4,
+        "delta_z_promedio": 32.3
+    },
+    {
+        "cliente_id": 1204,
+        "cliente_nombre": "Besalco Arrigoni S.A",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 90.0
+    },
+    {
+        "cliente_id": 1233,
+        "cliente_nombre": "DYJ SERVICIOS ",
+        "delta_x_promedio": 2.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 1158,
+        "cliente_nombre": "Thecne",
+        "delta_x_promedio": 16.0,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 840,
+        "cliente_nombre": "SOLMANT SpA",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 953,
+        "cliente_nombre": "WORLEY INGENIERÍA Y CONSTRUCCIÓN S.A.",
+        "delta_x_promedio": 32.2,
+        "delta_y_promedio": 1.4,
+        "delta_z_promedio": 31.2
+    },
+    {
+        "cliente_id": 1187,
+        "cliente_nombre": "Manto Verde",
+        "delta_x_promedio": 42.5,
+        "delta_y_promedio": 0.1,
+        "delta_z_promedio": 47.5
+    },
+    {
+        "cliente_id": 352,
+        "cliente_nombre": "TRANSPORTES POLAR S.A.",
+        "delta_x_promedio": 40.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 44.0
+    },
+    {
+        "cliente_id": 1208,
+        "cliente_nombre": "Martinic Ingenieria",
+        "delta_x_promedio": 19.7,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 1.3
+    },
+    {
+        "cliente_id": 961,
+        "cliente_nombre": "FLESAN MINERIA S.A",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 76.0
+    },
+    {
+        "cliente_id": 598,
+        "cliente_nombre": "DIAZA SPA",
+        "delta_x_promedio": 4.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.5
+    },
+    {
+        "cliente_id": 1288,
+        "cliente_nombre": "Sociedad Comercial e Importadora Villanueva SPA",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 37.0
+    },
+    {
+        "cliente_id": 1260,
+        "cliente_nombre": "Imh Solutyons",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1262,
+        "cliente_nombre": "Comercial Fashion’S Park S.a.",
+        "delta_x_promedio": 48.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 29.0
+    },
+    {
+        "cliente_id": 1266,
+        "cliente_nombre": "Gps Service Spa",
+        "delta_x_promedio": 4.4,
+        "delta_y_promedio": 0.2,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 298,
+        "cliente_nombre": "SCHWAGER SERVICE S.A",
+        "delta_x_promedio": 34.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 51.0
+    },
+    {
+        "cliente_id": 918,
+        "cliente_nombre": "AGUNSA",
+        "delta_x_promedio": 126.5,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 19.0
+    },
+    {
+        "cliente_id": 1276,
+        "cliente_nombre": "Rbs spa",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 882,
+        "cliente_nombre": "MAXAM",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 39.7
+    },
+    {
+        "cliente_id": 645,
+        "cliente_nombre": "SAN JOSÉ SERVICIOS E.I.R.L",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 103,
+        "cliente_nombre": "BUREAU VERITAS CHILE S A",
+        "delta_x_promedio": 10.2,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 39.2
+    },
+    {
+        "cliente_id": 1300,
+        "cliente_nombre": "Mpg Ingeniería",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 471,
+        "cliente_nombre": "ULTRAPORT",
+        "delta_x_promedio": 67.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 32.0
+    },
+    {
+        "cliente_id": 1303,
+        "cliente_nombre": "ASIB",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 1.4
+    },
+    {
+        "cliente_id": 1322,
+        "cliente_nombre": "Sungrow Americas",
+        "delta_x_promedio": 5.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1336,
+        "cliente_nombre": "Mantenciones Wolotec Limitada",
+        "delta_x_promedio": 12.6,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 4.2
+    },
+    {
+        "cliente_id": 1295,
+        "cliente_nombre": "Instituto Obispo Silva Lezaeta",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1342,
+        "cliente_nombre": "Fireproofchile spa",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 1302,
+        "cliente_nombre": "Agroservicios Capurro S.p.a.",
+        "delta_x_promedio": 76.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 547,
+        "cliente_nombre": "CYMS SPA",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1346,
+        "cliente_nombre": "Acciona Agua",
+        "delta_x_promedio": 109.0,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 41.0
+    },
+    {
+        "cliente_id": 710,
+        "cliente_nombre": "SOCIEDAD COMERCIAL SAN IGNACIO LIMITADA",
+        "delta_x_promedio": 57.4,
+        "delta_y_promedio": 1.4,
+        "delta_z_promedio": 15.7
+    },
+    {
+        "cliente_id": 838,
+        "cliente_nombre": "MINABAS SPA",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 369,
+        "cliente_nombre": "ZUBLIN",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 42.0
+    },
+    {
+        "cliente_id": 1339,
+        "cliente_nombre": "Transportes Gramaq",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1374,
+        "cliente_nombre": "Jmn Spa",
+        "delta_x_promedio": 0.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 1335,
+        "cliente_nombre": "Securitas",
+        "delta_x_promedio": 30.1,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 42.3
+    },
+    {
+        "cliente_id": 1108,
+        "cliente_nombre": "SONDA S.A.",
+        "delta_x_promedio": 13.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 45.0
+    },
+    {
+        "cliente_id": 1398,
+        "cliente_nombre": "Jade Limitada",
+        "delta_x_promedio": 34.0,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1416,
+        "cliente_nombre": "Minera El Way S.a.",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 38.0
+    },
+    {
+        "cliente_id": 158,
+        "cliente_nombre": "EMBOTELLADORA ANDINA",
+        "delta_x_promedio": 15.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 13.0
+    },
+    {
+        "cliente_id": 1420,
+        "cliente_nombre": "Servicio Alta Spa",
+        "delta_x_promedio": 3.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 5.0
+    },
+    {
+        "cliente_id": 1388,
+        "cliente_nombre": "NOVAMINE",
+        "delta_x_promedio": 13.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 20.5
+    },
+    {
+        "cliente_id": 789,
+        "cliente_nombre": "VOITH TURBO S.A.",
+        "delta_x_promedio": 41.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 44.0
+    },
+    {
+        "cliente_id": 841,
+        "cliente_nombre": "D2R INTERNATIONAL LLC",
+        "delta_x_promedio": 1.5,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 1.5
+    },
+    {
+        "cliente_id": 1438,
+        "cliente_nombre": "Resco S.a",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1253,
+        "cliente_nombre": "SOBEK INGENIERIA",
+        "delta_x_promedio": 22.7,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 41.3
+    },
+    {
+        "cliente_id": 1524,
+        "cliente_nombre": "SK CAPACITACION SA",
+        "delta_x_promedio": 26.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 1440,
+        "cliente_nombre": "Transportes Gregoria",
+        "delta_x_promedio": 4.5,
+        "delta_y_promedio": 0.2,
+        "delta_z_promedio": 3.5
+    },
+    {
+        "cliente_id": 701,
+        "cliente_nombre": "SUPPLYNOR CHILE SPA",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1437,
+        "cliente_nombre": "Quantec Geoscience Chile ",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1436,
+        "cliente_nombre": "Fabrago Spa",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1435,
+        "cliente_nombre": "Birtec Spa",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1451,
+        "cliente_nombre": "North Chile Investments Spa",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1395,
+        "cliente_nombre": "Greendot Spa",
+        "delta_x_promedio": 13.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 1456,
+        "cliente_nombre": "Efbo Ltd",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.8
+    },
+    {
+        "cliente_id": 1471,
+        "cliente_nombre": "Vmw Ingeniería",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1337,
+        "cliente_nombre": "Satelco Spa",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 237,
+        "cliente_nombre": "MANPOWER SERVICIOS INTEGRALES",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 28.0
+    },
+    {
+        "cliente_id": 534,
+        "cliente_nombre": "WSS S.A.",
+        "delta_x_promedio": 13.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 42.0
+    },
+    {
+        "cliente_id": 1495,
+        "cliente_nombre": "Controlfrio Spa",
+        "delta_x_promedio": 5.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 5.0
+    },
+    {
+        "cliente_id": 282,
+        "cliente_nombre": "Syncore Montajes Industriales",
+        "delta_x_promedio": 109.0,
+        "delta_y_promedio": 0.4,
+        "delta_z_promedio": 36.0
+    },
+    {
+        "cliente_id": 1446,
+        "cliente_nombre": "Ilustre Municipalidad De Mejillones ",
+        "delta_x_promedio": 66.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 86.0
+    },
+    {
+        "cliente_id": 1378,
+        "cliente_nombre": "Nordes Spa",
+        "delta_x_promedio": 16.2,
+        "delta_y_promedio": 2.8,
+        "delta_z_promedio": 25.2
+    },
+    {
+        "cliente_id": 1522,
+        "cliente_nombre": "Diexa S.a.",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 29.5
+    },
+    {
+        "cliente_id": 1361,
+        "cliente_nombre": "Lureye Adminitracion Y Gestion Sa",
+        "delta_x_promedio": 78.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 38.0
+    },
+    {
+        "cliente_id": 619,
+        "cliente_nombre": "CONSTRUCTORA EL SAUCE ",
+        "delta_x_promedio": 19.7,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 33.7
+    },
+    {
+        "cliente_id": 1517,
+        "cliente_nombre": "Repreind Spa",
+        "delta_x_promedio": 27.2,
+        "delta_y_promedio": 1.1,
+        "delta_z_promedio": 25.2
+    },
+    {
+        "cliente_id": 1547,
+        "cliente_nombre": "Artimatemb Ltda",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 733,
+        "cliente_nombre": "PRORED ZONA NORTE LTDA.",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 1568,
+        "cliente_nombre": "SAAM TOWAGW CHILE SPA",
+        "delta_x_promedio": 25.0,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 29.0
+    },
+    {
+        "cliente_id": 82,
+        "cliente_nombre": "APPLUS INGELOG",
+        "delta_x_promedio": 24.0,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 34.7
+    },
+    {
+        "cliente_id": 1580,
+        "cliente_nombre": "ACUANOR",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 20.0
+    },
+    {
+        "cliente_id": 1756,
+        "cliente_nombre": "MAX VAPOR SPA",
+        "delta_x_promedio": 115.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 1554,
+        "cliente_nombre": "Cerro Dominador Csp S.a",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 91.0
+    },
+    {
+        "cliente_id": 374,
+        "cliente_nombre": "CESMEC S.A",
+        "delta_x_promedio": 23.0,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 48.0
+    },
+    {
+        "cliente_id": 1602,
+        "cliente_nombre": "Robles Steel Spa",
+        "delta_x_promedio": 34.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 56.0
+    },
+    {
+        "cliente_id": 532,
+        "cliente_nombre": "SQM",
+        "delta_x_promedio": 85.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 17.0
+    },
+    {
+        "cliente_id": 1595,
+        "cliente_nombre": "PC FACTORY",
+        "delta_x_promedio": 1.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 1600,
+        "cliente_nombre": "CONSORCIO GLOBE-REVENGA SA",
+        "delta_x_promedio": 29.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 18.5
+    },
+    {
+        "cliente_id": 578,
+        "cliente_nombre": "Ingenalse S.a.\t\t\t",
+        "delta_x_promedio": 69.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 30.0
+    },
+    {
+        "cliente_id": 1384,
+        "cliente_nombre": "Solvay Peróxidos De Los Andes",
+        "delta_x_promedio": 78.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 32.0
+    },
+    {
+        "cliente_id": 1277,
+        "cliente_nombre": "EMPRESA DE TRANSPORTES TRANSVIP SPA",
+        "delta_x_promedio": 12.6,
+        "delta_y_promedio": 0.6,
+        "delta_z_promedio": 30.0
+    },
+    {
+        "cliente_id": 1630,
+        "cliente_nombre": "Terra Ignota Spa. ",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 173,
+        "cliente_nombre": "FRIO LOA LIMITADA",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 49.0
+    },
+    {
+        "cliente_id": 1387,
+        "cliente_nombre": "FLANDERS ELECTRIC CHILE SERVIC",
+        "delta_x_promedio": 17.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 1639,
+        "cliente_nombre": "Zu Impermeabilizaciones Ltda",
+        "delta_x_promedio": 63.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 217,
+        "cliente_nombre": "JAM Telecomunicaciones SpA",
+        "delta_x_promedio": 5.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 337,
+        "cliente_nombre": "TECHINT CHILE S.A.",
+        "delta_x_promedio": 25.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 1641,
+        "cliente_nombre": "Eecol Electric",
+        "delta_x_promedio": 18.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 890,
+        "cliente_nombre": "PROMET SERVICIOS",
+        "delta_x_promedio": 79.7,
+        "delta_y_promedio": 1.7,
+        "delta_z_promedio": 35.3
+    },
+    {
+        "cliente_id": 1607,
+        "cliente_nombre": "Fundacion Jurique",
+        "delta_x_promedio": 11.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1633,
+        "cliente_nombre": "Custo Spa",
+        "delta_x_promedio": 61.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 47.0
+    },
+    {
+        "cliente_id": 1658,
+        "cliente_nombre": "Transp Tecnotek Chile Spa",
+        "delta_x_promedio": 61.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 47.0
+    },
+    {
+        "cliente_id": 999,
+        "cliente_nombre": "INVERSIONES PULMAHUE SPA",
+        "delta_x_promedio": 29.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1201,
+        "cliente_nombre": "Sourcing Spa",
+        "delta_x_promedio": 11.5,
+        "delta_y_promedio": 2.5,
+        "delta_z_promedio": 6.5
+    },
+    {
+        "cliente_id": 145,
+        "cliente_nombre": "DIPROFIRE CHILE LTDA.",
+        "delta_x_promedio": 9.5,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 15.0
+    },
+    {
+        "cliente_id": 1644,
+        "cliente_nombre": "RECSOL S.A.",
+        "delta_x_promedio": 39.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1673,
+        "cliente_nombre": "Servicio De Refrigeración Aire Acondicionado Celsius Clima Ltda",
+        "delta_x_promedio": 16.1,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 9.0
+    },
+    {
+        "cliente_id": 1680,
+        "cliente_nombre": "Cesar Enrique Camposano León Mantenimiento E Instalación De Sistemas De Calefaccion Eirl",
+        "delta_x_promedio": 35.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1664,
+        "cliente_nombre": "Universidad Viña del Mar",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 28.0
+    },
+    {
+        "cliente_id": 1482,
+        "cliente_nombre": "ENKELD SpA",
+        "delta_x_promedio": 14.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1660,
+        "cliente_nombre": "Constructora 2th  limitada",
+        "delta_x_promedio": 2.3,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1674,
+        "cliente_nombre": "Mt Equipos Ltda",
+        "delta_x_promedio": 26.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1693,
+        "cliente_nombre": "Lo Valledor (administradora De Mercado Spa)",
+        "delta_x_promedio": 36.7,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1655,
+        "cliente_nombre": "Proquiel Quimicos",
+        "delta_x_promedio": 11.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1699,
+        "cliente_nombre": "Sisdef Ltda.",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1709,
+        "cliente_nombre": "GUZMAN Y LARRAIN VIVIENDAS ECONOMICAS SPA ",
+        "delta_x_promedio": 50.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 35.0
+    },
+    {
+        "cliente_id": 1711,
+        "cliente_nombre": "Ingeniería Y Construcción Ironservice Spa.",
+        "delta_x_promedio": 35.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 205,
+        "cliente_nombre": "INGEMETAL",
+        "delta_x_promedio": 5.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 29.0
+    },
+    {
+        "cliente_id": 1716,
+        "cliente_nombre": "Comercializadora Revant Spa",
+        "delta_x_promedio": 5.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 448,
+        "cliente_nombre": "SEPTUM",
+        "delta_x_promedio": 29.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 50.0
+    },
+    {
+        "cliente_id": 781,
+        "cliente_nombre": "KOMATSU CUMMINS CHILE LTDA.",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 32.0
+    },
+    {
+        "cliente_id": 1713,
+        "cliente_nombre": "Techla Chile Spa ",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1544,
+        "cliente_nombre": "United Sistemas De Tuberias Ltda",
+        "delta_x_promedio": 11.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 1731,
+        "cliente_nombre": "Ingomar ",
+        "delta_x_promedio": 10.5,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 76.5
+    },
+    {
+        "cliente_id": 1698,
+        "cliente_nombre": "Promec Chile Spa",
+        "delta_x_promedio": 24.7,
+        "delta_y_promedio": 2.8,
+        "delta_z_promedio": 26.0
+    },
+    {
+        "cliente_id": 1723,
+        "cliente_nombre": "Sumaj Llajta",
+        "delta_x_promedio": 36.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 1732,
+        "cliente_nombre": "COMPANIA MINERA DEL PACIFICO S.A.",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 64.0
+    },
+    {
+        "cliente_id": 1718,
+        "cliente_nombre": "SUNWORK SPA",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 1.3,
+        "delta_z_promedio": 11.3
+    },
+    {
+        "cliente_id": 1697,
+        "cliente_nombre": "Roccflex Servicios Integrales En Termofusion Ltda.",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1733,
+        "cliente_nombre": "Qsat Telecom Spa",
+        "delta_x_promedio": 9.2,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 0.8
+    },
+    {
+        "cliente_id": 1737,
+        "cliente_nombre": "Epol Spa",
+        "delta_x_promedio": 9.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 470,
+        "cliente_nombre": "Esimtel S.A",
+        "delta_x_promedio": 8.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1750,
+        "cliente_nombre": "Techservice Spa",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 2.0
+    },
+    {
+        "cliente_id": 1738,
+        "cliente_nombre": "Ingenieros Y Consultores Hatch Ltda",
+        "delta_x_promedio": 23.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 25.0
+    },
+    {
+        "cliente_id": 1755,
+        "cliente_nombre": "Servicios Industriales & Comerciales Jhap Spa",
+        "delta_x_promedio": 10.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 3.0
+    },
+    {
+        "cliente_id": 1757,
+        "cliente_nombre": "GENERATEL SPA",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1772,
+        "cliente_nombre": "TRANSPORTE J&V",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1762,
+        "cliente_nombre": "Asesorias Y Proyectos Empirica Consultores Spa",
+        "delta_x_promedio": 4.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1771,
+        "cliente_nombre": "Sociedad Concesionaria Del Norte S.a",
+        "delta_x_promedio": 20.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 39.0
+    },
+    {
+        "cliente_id": 1746,
+        "cliente_nombre": "Asociacion Indigena Lemu Cuyen",
+        "delta_x_promedio": 26.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1775,
+        "cliente_nombre": "Pcred Einar Erlandsen Neubauer E I R L",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 926,
+        "cliente_nombre": "VOLTA. SPA",
+        "delta_x_promedio": 30.2,
+        "delta_y_promedio": 1.8,
+        "delta_z_promedio": 58.5
+    },
+    {
+        "cliente_id": 1778,
+        "cliente_nombre": "Isg Group Spa",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 95,
+        "cliente_nombre": "B.Bosch",
+        "delta_x_promedio": 4.5,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 75.5
+    },
+    {
+        "cliente_id": 1781,
+        "cliente_nombre": "P&r System H2o Spa",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1786,
+        "cliente_nombre": "WSP CHILE S.A.",
+        "delta_x_promedio": 11.3,
+        "delta_y_promedio": 0.7,
+        "delta_z_promedio": 10.7
+    },
+    {
+        "cliente_id": 1805,
+        "cliente_nombre": "Sociedad Comercial E Industrial Elemont Ltda",
+        "delta_x_promedio": 18.5,
+        "delta_y_promedio": 3.5,
+        "delta_z_promedio": 7.5
+    },
+    {
+        "cliente_id": 1789,
+        "cliente_nombre": "Primser S.a",
+        "delta_x_promedio": 7.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1254,
+        "cliente_nombre": "Oservim Spa",
+        "delta_x_promedio": 8.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 22.0
+    },
+    {
+        "cliente_id": 1809,
+        "cliente_nombre": "Revergy Spa",
+        "delta_x_promedio": 13.5,
+        "delta_y_promedio": 1.5,
+        "delta_z_promedio": 0.2
+    },
+    {
+        "cliente_id": 1829,
+        "cliente_nombre": "Efficot SpA",
+        "delta_x_promedio": 11.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 875,
+        "cliente_nombre": "TEKNICA",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 2.5,
+        "delta_z_promedio": 41.5
+    },
+    {
+        "cliente_id": 1419,
+        "cliente_nombre": "EXPLORACIONES MINERAS ANDINAS S.A.",
+        "delta_x_promedio": 97.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 1827,
+        "cliente_nombre": " Hc-group Spa",
+        "delta_x_promedio": 6.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 492,
+        "cliente_nombre": "Constructora SES Ltda.",
+        "delta_x_promedio": 2.0,
+        "delta_y_promedio": 5.0,
+        "delta_z_promedio": 34.0
+    },
+    {
+        "cliente_id": 1304,
+        "cliente_nombre": "Álvarez & Hendermane Spa",
+        "delta_x_promedio": 46.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1799,
+        "cliente_nombre": "Sociedad Chile Engineering Limitada",
+        "delta_x_promedio": 12.8,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 2.5
+    },
+    {
+        "cliente_id": 1849,
+        "cliente_nombre": "Durability Ltda",
+        "delta_x_promedio": 18.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 202,
+        "cliente_nombre": "Inamar Izaje SpA",
+        "delta_x_promedio": 17.5,
+        "delta_y_promedio": 0.5,
+        "delta_z_promedio": 46.0
+    },
+    {
+        "cliente_id": 555,
+        "cliente_nombre": "METASERVICE",
+        "delta_x_promedio": 21.0,
+        "delta_y_promedio": 1.0,
+        "delta_z_promedio": 6.0
+    },
+    {
+        "cliente_id": 1852,
+        "cliente_nombre": "Motors 360 Spa",
+        "delta_x_promedio": 19.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1569,
+        "cliente_nombre": "Arrigoni Ingeniería y Construcción S.A.",
+        "delta_x_promedio": 11.6,
+        "delta_y_promedio": 1.6,
+        "delta_z_promedio": 41.4
+    },
+    {
+        "cliente_id": 1866,
+        "cliente_nombre": "Servicio Automotriz Tecnomotors Ltda",
+        "delta_x_promedio": 28.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 7.0
+    },
+    {
+        "cliente_id": 1882,
+        "cliente_nombre": "Control Frio",
+        "delta_x_promedio": 22.0,
+        "delta_y_promedio": 4.0,
+        "delta_z_promedio": 8.0
+    },
+    {
+        "cliente_id": 1394,
+        "cliente_nombre": "Air Liquide Chile S A",
+        "delta_x_promedio": 16.0,
+        "delta_y_promedio": 3.0,
+        "delta_z_promedio": 0.0
+    },
+    {
+        "cliente_id": 1908,
+        "cliente_nombre": "Protab Spa.",
+        "delta_x_promedio": 13.0,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 1930,
+        "cliente_nombre": "GREENWORK TECHNOLOGY SPA",
+        "delta_x_promedio": 7.5,
+        "delta_y_promedio": 2.0,
+        "delta_z_promedio": 1.0
+    },
+    {
+        "cliente_id": 1971,
+        "cliente_nombre": "Asociación de Mujeres Indígenas, Hijas de Nuestra Tierra ",
+        "delta_x_promedio": 34.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 4.0
+    },
+    {
+        "cliente_id": 1981,
+        "cliente_nombre": "OPPER Quality SpA",
+        "delta_x_promedio": 15.0,
+        "delta_y_promedio": 0.0,
+        "delta_z_promedio": 4.0
+    }
+]   
