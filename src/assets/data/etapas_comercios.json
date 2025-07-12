@@ -1,10 +1,10 @@
 [
     {
-        "etapa": "Proceso → Inicio",
+        "etapa": "Preceso → Terminado",
         "dias_promedio": 42.21
     },
     {
-        "etapa": "Inicio → Primera Factura",
+        "etapa": "Terminado → Primera Factura",
         "dias_promedio": 1.24
     },
     {

@@ -1,0 +1,71 @@
+{
+    "top_clientes_pagos": [
+        {
+            "ranking": 1,
+            "cliente_id": 226,
+            "cliente_nombre": "KOMATSU CHILE S.A",
+            "total_pagado": 423421238.0,
+            "cantidad_facturas_pagadas": 773,
+            "cantidad_comercializaciones": 728,
+            "promedio_por_factura": 547763.57
+        },
+        {
+            "ranking": 2,
+            "cliente_id": 856,
+            "cliente_nombre": "CONSORCIO VOB",
+            "total_pagado": 309004852.0,
+            "cantidad_facturas_pagadas": 909,
+            "cantidad_comercializaciones": 909,
+            "promedio_por_factura": 339939.33
+        },
+        {
+            "ranking": 3,
+            "cliente_id": 259,
+            "cliente_nombre": "MPM",
+            "total_pagado": 274450715.0,
+            "cantidad_facturas_pagadas": 594,
+            "cantidad_comercializaciones": 587,
+            "promedio_por_factura": 462038.24
+        },
+        {
+            "ranking": 4,
+            "cliente_id": 282,
+            "cliente_nombre": "Syncore Montajes Industriales",
+            "total_pagado": 219997663.0,
+            "cantidad_facturas_pagadas": 379,
+            "cantidad_comercializaciones": 377,
+            "promedio_por_factura": 580468.77
+        },
+        {
+            "ranking": 5,
+            "cliente_id": 246,
+            "cliente_nombre": "METSO",
+            "total_pagado": 211699361.0,
+            "cantidad_facturas_pagadas": 1606,
+            "cantidad_comercializaciones": 1349,
+            "promedio_por_factura": 131817.78
+        }
+    ],
+    "total_encontrados": 5,
+    "estadisticas": {
+        "total_pagado_top_clientes": 1438573829.0,
+        "total_facturas_pagadas": 4261,
+        "promedio_pago_por_cliente": 287714765.8,
+        "cliente_mayor_pago": {
+            "nombre": "KOMATSU CHILE S.A",
+            "monto": 423421238.0
+        }
+    },
+    "configuracion": {
+        "limite_solicitado": 5,
+        "incluir_detalles": false,
+        "filtros_aplicados": [
+            "ADI%",
+            "OTR%",
+            "SPD%",
+            "solo_facturas_pagadas"
+        ],
+        "criterio_ordenamiento": "total_pagado_descendente"
+    },
+    "fecha_consulta": "2025-07-11T23:24:42.613992"
+}

@@ -1,8 +1,23 @@
 import { inject, Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { Observable,of } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import { ClientesResponse } from '../models/cliente.model';
 import { map } from 'rxjs/operators';
+
+export interface ClienteTop {
+  ranking: number;
+  cliente_id: number;
+  cliente_nombre: string;
+  total_pagado: number;
+  cantidad_facturas_pagadas: number;
+  cantidad_comercializaciones: number;
+  promedio_por_factura: number;
+}
+
+export interface RespuestaTopClientes {
+  top_clientes_pagos: ClienteTop[];
+}
+
 
 @Injectable({
   providedIn: 'root'
@@ -12,7 +27,9 @@ export class ClientesService {
   private http = inject(HttpClient);
   private predicciones: any[] | null = null;
   private datas: any[] | null = null;
-  private deltas:any[] | null = null;
+  private deltas: any[] | null = null;
+  private clientesConVendedores: any[] | null = null;
+  private estadisticas: any[] | null = null;
   constructor() { }
   private getHeaders() {
     return new HttpHeaders({
@@ -64,4 +81,36 @@ export class ClientesService {
       );
     }
   }
+  getTopClientes(): Observable<RespuestaTopClientes> {
+    return this.http.get<RespuestaTopClientes>('/assets/data/top5.json');
+  }
+
+  getLideresPorCliente(clienteId: number): Observable<any[]> {
+    if (this.clientesConVendedores !== null) {
+      const cliente = this.clientesConVendedores.find(c => c.cliente_id === clienteId);
+      return of(cliente?.vendedores || []);
+    } else {
+      return this.http.get<any>('/assets/data/clientes_con_lideres.json').pipe(
+        map(data => {
+          this.clientesConVendedores = data.clientes_con_vendedores;
+          const cliente = this.clientesConVendedores?.find(c => c.cliente_id === clienteId);
+          return cliente?.vendedores || [];
+        })
+      );
+    }
+  }
+  
+ getEstadisticasCliente(clienteId: number): Observable<any> {
+  if (this.estadisticas) {
+    const cliente = this.estadisticas.find(c => c.cliente_id === clienteId);
+    return of(cliente);
+  } else {
+    return this.http.get<any>('/assets/data/comer_total.json').pipe(
+      map(data => {
+        this.estadisticas = data.clientes; // accede al array interno
+        return this.estadisticas!.find(c => c.cliente_id === clienteId);
+      })
+    );
+  }
+}
 }

@@ -1,15 +1,12 @@
-import { Component, inject, NgModule } from '@angular/core';
-import { ClientesService } from '../../Services/Cliente.service';
+import { Component, inject, NgModule, ViewChild, ElementRef } from '@angular/core';
+import { ClientesService, ClienteTop } from '../../Services/Cliente.service';
 import { ClienteResumen } from '../../models/cliente.model';
-import { NgClass, NgFor, NgIf } from '@angular/common';
+import { CommonModule, NgClass, NgFor, NgIf } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
 import { EstadisticaService } from '../../Services/Estadistica.service';
-import { ChartOptions, ChartType, ChartDataset, ChartData } from 'chart.js';
-
+import { ChartOptions, ChartType, ChartDataset, ChartData, ChartConfiguration, Colors } from 'chart.js';
 import { NgChartsModule } from 'ng2-charts';
 import { NgModel } from '@angular/forms';
-
-
 
 export interface PorcentajeSenceResponse {
   sence: number;
@@ -19,20 +16,97 @@ export interface VentasLider {
   lider: string;
   total: number;
 }
-
-
-
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [NgFor, HttpClientModule, NgIf, NgChartsModule, NgClass],
+  imports: [NgFor, HttpClientModule, NgIf, NgChartsModule, NgClass,CommonModule],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
 })
 export class HomeComponent {
+  @ViewChild('seccionGraficos') seccionGraficos!: ElementRef;
+  @ViewChild('seccionTabla') seccionTabla!: ElementRef;
+  @ViewChild('seccionHome') seccionHome!: ElementRef;
+  @ViewChild('seccionCliente') seccionCliente!: ElementRef;
+  scrollAGraficos() {
+    this.seccionGraficos?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  scrollAClientes() {
+    this.seccionCliente?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  scrolAlHome() {
+    this.seccionHome?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  scrollATabla() {
+    this.seccionTabla?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
   private clienteService = inject(ClientesService);
   private estadisticasService = inject(EstadisticaService);
   clientesConPrediccion: Set<number> = new Set();
+  totalComercializacionesCliente: any;
+  estado: 'al_dia' | 'riesgo' | 'atrasado' = 'riesgo';
+  topClientes: ClienteTop[] = [];
+
+  barChartLabels: string[] = ['P25 (BAJO)', 'P50 (MEDIO)', 'P75 (ALTO)', 'P90 (CRÍTICO)'];
+  barChartData: ChartConfiguration<'bar'>['data'] = {
+    labels: this.barChartLabels,
+    datasets: [
+      {
+        label: 'COMERCIAL',
+        data: [23.0, 41.2, 54.2, 68.4],
+        backgroundColor: '#3B82F6' // azul
+      },
+      {
+        label: 'SENCE',
+        data: [41.2, 44.4, 61.4, 72.6],
+        backgroundColor: '#EF4444' // rojo
+      }
+    ]
+  };
+
+  // Opciones del gráfico
+  barChartOptions: ChartConfiguration<'bar'>['options'] = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        position: 'top',
+      },
+      title: {
+        display: true,
+
+        font: {
+          size: 18
+        }
+      },
+      tooltip: {
+        callbacks: {
+          label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y} días`
+        }
+      }
+    },
+    scales: {
+      y: {
+        title: {
+          display: true,
+          text: 'Días (Umbrales)',
+          font: {
+            size: 14
+          }
+        },
+        beginAtZero: true
+      },
+      x: {
+        title: {
+          display: true,
+          text: 'Categorías de Riesgo',
+          font: {
+            size: 14
+          }
+        }
+      }
+    }
+  };
   //Data Grafico de pie general
   lineOptionsPie = {
     responsive: true,
@@ -73,6 +147,8 @@ export class HomeComponent {
 
   barEtapasOptions: ChartOptions<'bar'> = {
     responsive: true,
+    maintainAspectRatio: false,
+    indexAxis: 'y',
     scales: {
       y: {
         title: {
@@ -91,6 +167,7 @@ export class HomeComponent {
 
   barEtapasOptionsCliente: ChartOptions<'bar'> = {
     responsive: true,
+    maintainAspectRatio: false,
     scales: {
       y: {
         title: {
@@ -112,6 +189,7 @@ export class HomeComponent {
 
   lineOptions = {
     responsive: true,
+    backgroundColor: ['#485CC7'],
     scales: {
       y: { beginAtZero: true }
     }
@@ -123,10 +201,10 @@ export class HomeComponent {
   totalClientes: number = 0;
   // Paginación
   paginaActual: number = 1;
-  clientesPorPagina: number = 10;
+  clientesPorPagina: number = 7;
   ordenActual: keyof ClienteResumen | null = null;
   ordenAscendente: boolean = true;
-
+  barChartDataClienteLider: any;
   scatterData = [
     {
       label: 'Ventas proyectadas',
@@ -153,6 +231,7 @@ export class HomeComponent {
   evolucionChartData: any;
   evolucionChartOptions: ChartOptions<'line'> = {
     responsive: true,
+    maintainAspectRatio: false,
     plugins: { legend: { position: 'top' } },
     scales: {
       y: { beginAtZero: true },
@@ -173,8 +252,14 @@ export class HomeComponent {
     });
     console.log(this.clientes);
     this.estadisticasService.obtenerDistribucionSence().subscribe(data => {
-      console.log(data.sence)
-      this.linepieChardata.datasets[0].data = [data.sence, data.no_sence];
+      this.linepieChardata = {
+        labels: ['Ventas Totales', 'Ventas SENCE'],
+        datasets: [{
+          data: [data.sence, data.no_sence],
+          backgroundColor: ['#3B82F6', '#10B981'],
+          borderWidth: 0
+        }]
+      };
     });
     this.estadisticasService.obtenerVentasPorLider().subscribe((datos: VentasLider[]) => {
       this.barVentasData = {
@@ -189,6 +274,9 @@ export class HomeComponent {
     this.cargarTiemposEtapas();
     this.cargarDemoraMensual();
     this.cargarProyeccionAnual(2025);
+    this.clienteService.getTopClientes().subscribe(res => {
+      this.topClientes = res.top_clientes_pagos;
+    });
 
   }
   get clientesPaginados(): ClienteResumen[] {
@@ -251,7 +339,7 @@ export class HomeComponent {
           {
             label: 'Promedio (días)',
             data: data.map(d => d.dias_promedio),
-            backgroundColor: ['#0284C7', '#F59E0B', '#10B981']
+            backgroundColor: ['#0284C7', '#F59E0B', '#00B8DE']
           }
         ]
       };
@@ -306,6 +394,16 @@ export class HomeComponent {
     this.clienteSeleccionado = cliente;
     this.cargarEvolucionMensual(cliente.IdCliente);
     this.cargarGraficoPieCliente(cliente.IdCliente);
+    this.cargarGracficoEtapasCliente(cliente.IdCliente);
+    this.cargarBarraClienteLideres(cliente.IdCliente);
+    this.scrollAClientes();
+    this.clienteService.getEstadisticasCliente(cliente.IdCliente).subscribe(data => {
+      if (data?.estadisticas_comercializaciones) {
+        this.totalComercializacionesCliente = data.estadisticas_comercializaciones.total_comercializaciones;
+      } else {
+        this.totalComercializacionesCliente = null;
+      }
+    });
   }
   cargarEvolucionMensual(clienteId: number) {
     this.clienteService.getEvolucionMensualPorCliente(clienteId).subscribe(res => {
@@ -342,13 +440,84 @@ export class HomeComponent {
     this.linepieChardataCliente = {
       labels: ['Ventas Totales', 'Ventas SENCE'],
       datasets: [{
-        data: [(cliente.total_ventas * 100)/ total, (cliente.total_sence * 100) / total],
+        data: [(cliente.total_ventas * 100) / total, (cliente.total_sence * 100) / total],
         backgroundColor: ['#3B82F6', '#10B981'],
         borderWidth: 0
       }]
     };
   }
 
+  cargarGracficoEtapasCliente(cliente_id: number) {
+    this.clienteService.getDeltaCliente(cliente_id).subscribe({
+      next: (data) => {
+        if (!data) {
+          console.warn('No hay datos de delta para cliente:', cliente_id);
+          return;
+        }
+        console.log(data);
+        // Convertimos el objeto a un arreglo con nombre de etapa y valor
+        const etapas = [
+          { etapa: 'Proceso → Terminado', dias_promedio: data.delta_x_promedio },
+          { etapa: 'Terminado → Factura', dias_promedio: data.delta_y_promedio },
+          { etapa: 'Factura → Pago', dias_promedio: data.delta_z_promedio },
+        ];
+
+        this.barEtapasDataCliente = {
+          labels: etapas.map(e => e.etapa),
+          datasets: [{
+            label: 'Promedio (días)',
+            data: etapas.map(e => e.dias_promedio),
+            backgroundColor: ['#0284C7', '#F59E0B', '#10B981']
+          }]
+        };
+        this.barEtapasOptionsCliente = {
+          responsive: true,
+
+          maintainAspectRatio: false,
+          indexAxis: 'y',
+          scales: {
+            x: {
+              beginAtZero: true,
+              title: {
+                display: true,
+                text: 'Días'
+              }
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Etapas'
+              }
+            }
+          },
+          plugins: {
+            legend: {
+              display: true
+            }
+          }
+        };
+      },
+      error: (err) => {
+        console.error('Error al obtener delta del cliente:', err);
+      }
+    });
+  }
+
+  cargarBarraClienteLideres(IdCliente: number) {
+    this.clienteService.getLideresPorCliente(IdCliente).subscribe(vendedores => {
+      const labels = vendedores.map(v => v.lider_comercial);
+      const valores = vendedores.map(v => v.valor_total_vendido);
+
+      this.barChartDataClienteLider = {
+        labels,
+        datasets: [{
+          label: 'Total vendido',
+          data: valores,
+          backgroundColor: '#60A5FA'
+        }]
+      };
+    });
+  }
 
 
 }

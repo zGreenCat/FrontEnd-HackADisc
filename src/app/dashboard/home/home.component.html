@@ -21,43 +21,60 @@
           class="self-center text-xl font-semibold whitespace-nowrap text-white dark:text-white">Insecap</span>
       </a>
       <ul class="space-y-2 font-medium">
+        <!-- Dashboard -->
         <li>
-          <a href="#"
-            class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-
-
+          <a (click)="scrolAlHome()"
+            class="flex items-center p-2 text-white rounded-lg hover:bg-blue-700 transition-colors">
+            <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10 2a1 1 0 00-.894.553L2.382 15H17.618L10.894 2.553A1 1 0 0010 2z"></path>
+            </svg>
+            <span class="ml-3">Inicio</span>
           </a>
         </li>
+        <li>
+          <a (click)="scrollATabla()"
+            class="flex items-center p-2 text-white rounded-lg hover:bg-blue-700 transition-colors">
+            <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M11.3 1.046a1 1 0 011.4 0l1.09 1.09a1 1 0 010 1.4l-1.09 1.09a1 1 0 01-1.4 0l-1.09-1.09a1 1 0 010-1.4l1.09-1.09zM10 5a5 5 0 100 10A5 5 0 0010 5z">
+              </path>
+            </svg>
+            <span class="ml-3">Clientes</span>
+          </a>
+        </li>
+        <!-- Reportes -->
+        <li>
+          <a (click)="scrollAGraficos()"
+            class="flex items-center p-2 text-white rounded-lg hover:bg-blue-700 transition-colors">
+            <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+              <path d="M3 3h14v14H3V3zm2 2v10h10V5H5z"></path>
+            </svg>
+            <span class="ml-3">Reportes</span>
+          </a>
+        </li>
+
+        <!-- Configuración -->
+
       </ul>
+
     </div>
   </aside>
+<div class="sm:ml-64 py-4 bg-gray-100 shadow border-b"  #seccionHome>
+    <h1 class="text-center text-3xl font-extrabold tracking-wide text-azul uppercase" style="font-family: 'Montserrat', sans-serif;">
+      DASHMODELS
+    </h1>
+  </div>
+  <div class="p-4 sm:ml-64 ">
 
-  <div class="p-4 sm:ml-64">
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3  mt-6 mb-6 text-center">
-      <!-- Cuadro 1 -->
-      <div class="bg-white rounded-lg shadow w-36 h-36 mx-auto flex flex-col justify-center items-center">
-        <p class="text-3xl font-bold text-azul">245</p>
-        <p class="text-sm text-gray-500 mt-1 text-center">Días entre Progreso y Término de Comercio</p>
-      </div>
-
-      <!-- Cuadro 2 -->
-      <div class="bg-white rounded-lg shadow w-36 h-36 mx-auto flex flex-col justify-center items-center">
-        <p class="text-3xl font-bold text-green-600">152</p>
-        <p class="text-sm text-gray-500 mt-1 text-center">Ventas SENCE</p>
-      </div>
-
-      <!-- Cuadro 3 -->
-      <div class="bg-white rounded-lg shadow w-36 h-36 mx-auto flex flex-col justify-center items-center">
-        <p class="text-3xl font-bold text-orange-500">94%</p>
-        <p class="text-sm text-gray-500 mt-1 text-center">% Pago Exitoso</p>
-      </div>
-    </div>
 
 
 
     <div class="w-full mb-6">
+      <h1 class="text-2xl font-extrabold tracking-wide text-azul  mb-2 text-left" style="font-family: 'Montserrat', sans-serif;">
+  Ventas por año (Proyecciones)
+</h1>
       <div class="bg-white rounded-lg shadow p-4 w-full">
-        <h2 class="text-sm font-semibold text-azul mb-2">Ventas por año (Proyecciones)</h2>
+
         <select class="px-2 py-1 border rounded text-sm" (change)="onCambioAno($event)">
           <option [value]="2023">2023</option>
           <option [value]="2024">2024</option>
@@ -73,12 +90,14 @@
     </div>
 
     <div class="flex justify-between items-center mb-4">
-      <h2 class="text-2xl font-bold text-azul">Clientes</h2>
+      <h1 class="text-2xl font-extrabold tracking-wide text-azul  mb-2 text-left" style="font-family: 'Montserrat', sans-serif;">
+  Panel de Evaluación de Clientes
+</h1>
       <input type="text" placeholder="Buscar..."
         class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-azul" />
     </div>
 
-    <div class="overflow-x-auto mb-6 rounded-lg border-b">
+    <div class="overflow-x-auto mb-6 rounded-lg border-b" #seccionTabla>
       <table class="min-w-full text-sm text-center text-gray-700 border-separate border-spacing-0">
         <thead class="bg-azul text-white">
           <tr>
@@ -87,6 +106,7 @@
             <th class="px-6 py-3 cursor-pointer" (click)="ordenarPor('total_ventas')">Total de ventas</th>
             <th class="px-6 py-3">Total Sence</th>
             <th class="px-6 py-3">Días Estimados</th>
+            <th class="px-6 py-3">Nivel Riesgo</th>
           </tr>
         </thead>
         <tbody>
@@ -100,10 +120,16 @@
             'text-green-600': cliente.nivel_riesgo === 'BAJO',
             'text-yellow-500': cliente.nivel_riesgo === 'MEDIO',
             'text-orange-500': cliente.nivel_riesgo === 'ALTO',
-            'text-red-600': cliente.nivel_riesgo === 'CRITICO'
+            'text-red': cliente.nivel_riesgo === 'CRITICO'
           }">
               {{ cliente.dias_predichos ?? '—' }}
             </td>
+            <td class="px-6 py-4 font-bold text-green-600" [ngClass]="{
+            'text-green-600': cliente.nivel_riesgo === 'BAJO',
+            'text-yellow-500': cliente.nivel_riesgo === 'MEDIO',
+            'text-orange-500': cliente.nivel_riesgo === 'ALTO',
+            'text-red-600': cliente.nivel_riesgo === 'CRITICO'
+          }">{{ cliente.nivel_riesgo }}</td>
           </tr>
         </tbody>
       </table>
@@ -135,16 +161,16 @@
       ← Volver a vista general
     </button>
 
-    <div *ngIf="!clienteSeleccionado">
+    <div *ngIf="!clienteSeleccionado" #seccionGraficos>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <!-- Card 1: Top sales rep -->
         <div class="bg-white  rounded-lg shadow p-4">
-          <div class="bg-white rounded-lg shadow p-4">
-            <h2 class="text-sm font-semibold text-azul">Demora promedio por mes</h2>
-            <canvas baseChart [datasets]="lineData" [labels]="lineLabels" [options]="lineOptions" [legend]="false"
-              chartType="line">
-            </canvas>
-          </div>
+
+          <h2 class="text-sm font-semibold text-azul">Demora promedio por mes</h2>
+          <canvas baseChart [datasets]="lineData" [labels]="lineLabels" [options]="lineOptions" [legend]="false"
+            chartType="line">
+          </canvas>
+
         </div>
 
         <!-- Card 2: Forecast this quarter -->
@@ -156,11 +182,12 @@
         </div>
 
         <div class="bg-white  rounded-lg shadow p-4">
-          <div class="bg-white rounded-lg shadow p-4">
-            <h2 class="text-sm font-semibold text-azul">Demora dias por etapa</h2>
-            <canvas baseChart [data]="barEtapasData" [options]="barEtapasOptions" [type]="'bar'">
-            </canvas>
-          </div>
+
+          <h2 class="text-sm font-semibold text-azul">Demora dias por etapa</h2>
+          <canvas baseChart [data]="barEtapasData" [options]="barEtapasOptions" [type]="'bar'"
+            class="w-full h-64 max-h-64">
+          </canvas>
+
         </div>
 
         <!-- Card 4: Sales this month -->
@@ -172,51 +199,78 @@
 
         <!-- Card 5: Activities -->
         <div class="bg-white  rounded-lg shadow p-4">
-          <h2 class="text-sm font-semibold text-azul">Activities in sales</h2>
-          <p class="text-3xl font-bold text-orange-500 mt-2">11</p>
-          <p class="text-xs text-azul">Pending review</p>
+          <h2 class="text-sm font-semibold text-azul">Umbrales</h2>
+          <canvas baseChart [data]="barChartData" [labels]="barChartLabels" [options]="barChartOptions" [type]="'bar'"
+            class="w-full h-64 max-h-64">
+          </canvas>
         </div>
 
         <!-- Card 6: Open requests -->
         <div class="bg-white  rounded-lg shadow p-4">
-          <h2 class="text-sm font-semibold text-gray-600 dark:text-gray-300">Open requests</h2>
-          <ul class="text-sm text-gray-800 dark:text-gray-200 mt-2 space-y-1">
-            <li class="flex justify-between">
-              <span>Tractor Inc.</span>
-              <span class="font-semibold text-emerald-600">250K EUR</span>
-            </li>
-            <li class="flex justify-between">
-              <span>HeavyTech Ltd.</span>
-              <span class="font-semibold text-emerald-600">180K EUR</span>
-            </li>
-            <li class="flex justify-between">
-              <span>MechaPro GmbH</span>
-              <span class="font-semibold text-emerald-600">210K EUR</span>
-            </li>
-          </ul>
+          <table class="min-w-full divide-y divide-gray-200 bg-white">
+            <thead class="bg-azul">
+              <tr>
+                <th scope="col" class="px-4 py-2 text-left text-sm font-semibold text-white">
+                  Cliente
+                </th>
+                <th scope="col" class="px-4 py-2 text-right text-sm font-semibold  text-white">
+                  Total Pagado
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200 text-sm">
+              <tr *ngFor="let cliente of topClientes">
+                <td class="px-4 py-2 text-gray-800">{{ cliente.cliente_nombre }}</td>
+                <td class="px-4 py-2 text-right text-green-600 font-semibold">{{ cliente.total_pagado | currency:'CLP':'symbol':'1.0-0' }}</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
-    <div *ngIf="clienteSeleccionado">
+    <div *ngIf="clienteSeleccionado" #seccionCliente>
       <h2 class="text-xl font-bold text-azul mb-4 text-center">
         Cliente seleccionado: {{ clienteSeleccionado.NombreCliente }}
       </h2>
 
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <!-- Card 1: Top sales rep -->
-        <div class="bg-white  rounded-lg shadow p-4">
-          <div class="bg-white rounded-lg shadow p-4">
-                    <h2 class="text-sm font-semibold text-azul mb-2">Evolución mensual de ventas y cobros</h2>
-          <canvas baseChart
-            [data]="evolucionChartData"
-            [options]="evolucionChartOptions"
-            [type]="'line'"
+        <div class="bg-white rounded-lg shadow p-4 col-span-1 lg:col-span-2">
+
+          <h2 class="text-sm font-semibold text-azul mb-2">Evolución mensual de ventas y cobros</h2>
+          <canvas baseChart [data]="evolucionChartData" [options]="evolucionChartOptions" [type]="'line'"
             class="w-full h-64 max-h-64">
           </canvas>
-          </div>
+
         </div>
 
         <!-- Card 2: Forecast this quarter -->
+
+
+        <div class="bg-white  rounded-lg shadow p-4">
+
+          <h2 class="text-sm font-semibold text-azul">Demora dias por etapa</h2>
+          <canvas baseChart [data]="barEtapasDataCliente" [options]="barEtapasOptionsCliente" [type]="'bar'"
+            class="w-full h-64 max-h-64">
+          </canvas>
+
+        </div>
+
+        <!-- Card 4: Sales this month -->
+        <div class="bg-white rounded-lg shadow p-4">
+          <h2 class="text-sm font-semibold text-azul">Ventas por líder comercial</h2>
+          <canvas baseChart [data]="barChartDataClienteLider" [type]="'bar'">
+          </canvas>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-4 flex flex-col justify-center items-center h-full">
+          <h2 class="text-sm font-semibold text-azul">Total de Comercializaciones</h2>
+          <div *ngIf="totalComercializacionesCliente !== null" class="text-center">
+
+            <p class="text-7xl font-bold text-azul">{{ totalComercializacionesCliente }}</p>
+          </div>
+        </div>
+
         <div class="bg-white rounded-lg shadow p-4 ">
           <h2 class="text-sm font-semibold text-azul">Sence v/s No sence</h2>
           <canvas baseChart [type]="'pie'" [data]="linepieChardataCliente" [options]="lineOptionsPieCliente"
@@ -224,46 +278,9 @@
           </canvas>
         </div>
 
-        <div class="bg-white  rounded-lg shadow p-4">
-          <div class="bg-white rounded-lg shadow p-4">
-            <h2 class="text-sm font-semibold text-azul">Demora dias por etapa</h2>
-            <canvas baseChart [data]="barEtapasData" [options]="barEtapasOptions" [type]="'bar'">
-            </canvas>
-          </div>
-        </div>
-
-        <!-- Card 4: Sales this month -->
-        <div class="bg-white rounded-lg shadow p-4">
-          <h2 class="text-sm font-semibold text-azul">Ventas por líder comercial</h2>
-          <canvas baseChart [data]="barVentasData" [options]="barVentasOptions" [type]="'bar'">
-          </canvas>
-        </div>
-
-        <!-- Card 5: Activities -->
-        <div class="bg-white  rounded-lg shadow p-4">
-          <h2 class="text-sm font-semibold text-azul">Activities in sales</h2>
-          <p class="text-3xl font-bold text-orange-500 mt-2">11</p>
-          <p class="text-xs text-azul">Pending review</p>
-        </div>
 
         <!-- Card 6: Open requests -->
-        <div class="bg-white  rounded-lg shadow p-4">
-          <h2 class="text-sm font-semibold text-gray-600 dark:text-gray-300">Open requests</h2>
-          <ul class="text-sm text-gray-800 dark:text-gray-200 mt-2 space-y-1">
-            <li class="flex justify-between">
-              <span>Tractor Inc.</span>
-              <span class="font-semibold text-emerald-600">250K EUR</span>
-            </li>
-            <li class="flex justify-between">
-              <span>HeavyTech Ltd.</span>
-              <span class="font-semibold text-emerald-600">180K EUR</span>
-            </li>
-            <li class="flex justify-between">
-              <span>MechaPro GmbH</span>
-              <span class="font-semibold text-emerald-600">210K EUR</span>
-            </li>
-          </ul>
-        </div>
+
       </div>
     </div>
   </div>
