@@ -1,0 +1,742 @@
+{
+    "ano": 2025,
+    "fecha_consulta": "2025-07-12T11:20:39.515420",
+    "configuracion": {
+        "incluir_predicciones": true,
+        "limite_clientes": 1000,
+        "modelo_ml_disponible": true
+    },
+    "resumen_anual": {
+        "valor_total_real": 1731773205.0,
+        "valor_total_proyectado": 235217732.84689632,
+        "meses_con_datos_reales": 6,
+        "meses_proyectados": 6,
+        "total_ventas_reales": 1478,
+        "total_ventas_proyectadas": 486,
+        "valor_total_combinado": 1966990937.8468964,
+        "promedio_mensual": 163915911.48724136,
+        "porcentaje_real": 88.04,
+        "porcentaje_proyectado": 11.96
+    },
+    "detalle_mensual": {
+        "mes_01": {
+            "mes": 1,
+            "nombre_mes": "January",
+            "datos_reales": {
+                "valor_ventas": 319592493.0,
+                "valor_cobrado": 215384762.0,
+                "cantidad_ventas": 646,
+                "cantidad_pagos": 590,
+                "tiene_datos": true
+            },
+            "predicciones": null,
+            "resumen": {
+                "valor_total_estimado": 534977255.0,
+                "fuente": "datos_reales"
+            }
+        },
+        "mes_02": {
+            "mes": 2,
+            "nombre_mes": "February",
+            "datos_reales": {
+                "valor_ventas": 163248683.0,
+                "valor_cobrado": 135032853.0,
+                "cantidad_ventas": 395,
+                "cantidad_pagos": 413,
+                "tiene_datos": true
+            },
+            "predicciones": null,
+            "resumen": {
+                "valor_total_estimado": 298281536.0,
+                "fuente": "datos_reales"
+            }
+        },
+        "mes_03": {
+            "mes": 3,
+            "nombre_mes": "March",
+            "datos_reales": {
+                "valor_ventas": 134065213.0,
+                "valor_cobrado": 209318449.0,
+                "cantidad_ventas": 277,
+                "cantidad_pagos": 516,
+                "tiene_datos": true
+            },
+            "predicciones": null,
+            "resumen": {
+                "valor_total_estimado": 343383662.0,
+                "fuente": "datos_reales"
+            }
+        },
+        "mes_04": {
+            "mes": 4,
+            "nombre_mes": "April",
+            "datos_reales": {
+                "valor_ventas": 58405212.0,
+                "valor_cobrado": 422270617.0,
+                "cantidad_ventas": 138,
+                "cantidad_pagos": 679,
+                "tiene_datos": true
+            },
+            "predicciones": null,
+            "resumen": {
+                "valor_total_estimado": 480675829.0,
+                "fuente": "datos_reales"
+            }
+        },
+        "mes_05": {
+            "mes": 5,
+            "nombre_mes": "May",
+            "datos_reales": {
+                "valor_ventas": 7097182.0,
+                "valor_cobrado": 61646541.0,
+                "cantidad_ventas": 21,
+                "cantidad_pagos": 163,
+                "tiene_datos": true
+            },
+            "predicciones": null,
+            "resumen": {
+                "valor_total_estimado": 68743723.0,
+                "fuente": "datos_reales"
+            }
+        },
+        "mes_06": {
+            "mes": 6,
+            "nombre_mes": "June",
+            "datos_reales": {
+                "valor_ventas": 2400000.0,
+                "valor_cobrado": 3311200.0,
+                "cantidad_ventas": 1,
+                "cantidad_pagos": 5,
+                "tiene_datos": true
+            },
+            "predicciones": null,
+            "resumen": {
+                "valor_total_estimado": 5711200.0,
+                "fuente": "datos_reales"
+            }
+        },
+        "mes_07": {
+            "mes": 7,
+            "nombre_mes": "July",
+            "datos_reales": {
+                "valor_ventas": 0,
+                "valor_cobrado": 0,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "tiene_datos": false
+            },
+            "predicciones": {
+                "valor_proyectado": 39202955.47448272,
+                "cantidad_predicciones": 81,
+                "errores": 0,
+                "detalle_predicciones": [
+                    {
+                        "cliente_id": 567,
+                        "cliente_nombre": "Sigma S.a.\t",
+                        "valor_estimado": 346800.0,
+                        "dias_predichos": 20,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 246,
+                        "cliente_nombre": "METSO",
+                        "valor_estimado": 166113.0362659503,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 283,
+                        "cliente_nombre": "PYC",
+                        "valor_estimado": 343505.2957746479,
+                        "dias_predichos": 16,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 334,
+                        "cliente_nombre": " SUEZ Medioambiente Chile S.A",
+                        "valor_estimado": 340171.4285714286,
+                        "dias_predichos": 20,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 992,
+                        "cliente_nombre": "Escuela de Conductores San Andrés",
+                        "valor_estimado": 1833900.0,
+                        "dias_predichos": 15,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 137,
+                        "cliente_nombre": "CUMMINS",
+                        "valor_estimado": 538178.874015748,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 934,
+                        "cliente_nombre": "EPIROC CHILE",
+                        "valor_estimado": 280000.23529411765,
+                        "dias_predichos": 17,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 521,
+                        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+                        "valor_estimado": 971714.15,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    }
+                ],
+                "modelo_version": "v3.0-hibrido"
+            },
+            "resumen": {
+                "valor_total_estimado": 39202955.47448272,
+                "fuente": "predicciones_ml"
+            }
+        },
+        "mes_08": {
+            "mes": 8,
+            "nombre_mes": "August",
+            "datos_reales": {
+                "valor_ventas": 0,
+                "valor_cobrado": 0,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "tiene_datos": false
+            },
+            "predicciones": {
+                "valor_proyectado": 39202955.47448272,
+                "cantidad_predicciones": 81,
+                "errores": 0,
+                "detalle_predicciones": [
+                    {
+                        "cliente_id": 567,
+                        "cliente_nombre": "Sigma S.a.\t",
+                        "valor_estimado": 346800.0,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 246,
+                        "cliente_nombre": "METSO",
+                        "valor_estimado": 166113.0362659503,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 283,
+                        "cliente_nombre": "PYC",
+                        "valor_estimado": 343505.2957746479,
+                        "dias_predichos": 16,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 334,
+                        "cliente_nombre": " SUEZ Medioambiente Chile S.A",
+                        "valor_estimado": 340171.4285714286,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 992,
+                        "cliente_nombre": "Escuela de Conductores San Andrés",
+                        "valor_estimado": 1833900.0,
+                        "dias_predichos": 15,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 137,
+                        "cliente_nombre": "CUMMINS",
+                        "valor_estimado": 538178.874015748,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 934,
+                        "cliente_nombre": "EPIROC CHILE",
+                        "valor_estimado": 280000.23529411765,
+                        "dias_predichos": 17,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 521,
+                        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+                        "valor_estimado": 971714.15,
+                        "dias_predichos": 20,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    }
+                ],
+                "modelo_version": "v3.0-hibrido"
+            },
+            "resumen": {
+                "valor_total_estimado": 39202955.47448272,
+                "fuente": "predicciones_ml"
+            }
+        },
+        "mes_09": {
+            "mes": 9,
+            "nombre_mes": "September",
+            "datos_reales": {
+                "valor_ventas": 0,
+                "valor_cobrado": 0,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "tiene_datos": false
+            },
+            "predicciones": {
+                "valor_proyectado": 39202955.47448272,
+                "cantidad_predicciones": 81,
+                "errores": 0,
+                "detalle_predicciones": [
+                    {
+                        "cliente_id": 567,
+                        "cliente_nombre": "Sigma S.a.\t",
+                        "valor_estimado": 346800.0,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 246,
+                        "cliente_nombre": "METSO",
+                        "valor_estimado": 166113.0362659503,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 283,
+                        "cliente_nombre": "PYC",
+                        "valor_estimado": 343505.2957746479,
+                        "dias_predichos": 16,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 334,
+                        "cliente_nombre": " SUEZ Medioambiente Chile S.A",
+                        "valor_estimado": 340171.4285714286,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 992,
+                        "cliente_nombre": "Escuela de Conductores San Andrés",
+                        "valor_estimado": 1833900.0,
+                        "dias_predichos": 15,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 137,
+                        "cliente_nombre": "CUMMINS",
+                        "valor_estimado": 538178.874015748,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 934,
+                        "cliente_nombre": "EPIROC CHILE",
+                        "valor_estimado": 280000.23529411765,
+                        "dias_predichos": 17,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 521,
+                        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+                        "valor_estimado": 971714.15,
+                        "dias_predichos": 20,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    }
+                ],
+                "modelo_version": "v3.0-hibrido"
+            },
+            "resumen": {
+                "valor_total_estimado": 39202955.47448272,
+                "fuente": "predicciones_ml"
+            }
+        },
+        "mes_10": {
+            "mes": 10,
+            "nombre_mes": "October",
+            "datos_reales": {
+                "valor_ventas": 0,
+                "valor_cobrado": 0,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "tiene_datos": false
+            },
+            "predicciones": {
+                "valor_proyectado": 39202955.47448272,
+                "cantidad_predicciones": 81,
+                "errores": 0,
+                "detalle_predicciones": [
+                    {
+                        "cliente_id": 567,
+                        "cliente_nombre": "Sigma S.a.\t",
+                        "valor_estimado": 346800.0,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 246,
+                        "cliente_nombre": "METSO",
+                        "valor_estimado": 166113.0362659503,
+                        "dias_predichos": 25,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 283,
+                        "cliente_nombre": "PYC",
+                        "valor_estimado": 343505.2957746479,
+                        "dias_predichos": 16,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 334,
+                        "cliente_nombre": " SUEZ Medioambiente Chile S.A",
+                        "valor_estimado": 340171.4285714286,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 992,
+                        "cliente_nombre": "Escuela de Conductores San Andrés",
+                        "valor_estimado": 1833900.0,
+                        "dias_predichos": 15,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 137,
+                        "cliente_nombre": "CUMMINS",
+                        "valor_estimado": 538178.874015748,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 934,
+                        "cliente_nombre": "EPIROC CHILE",
+                        "valor_estimado": 280000.23529411765,
+                        "dias_predichos": 17,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 521,
+                        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+                        "valor_estimado": 971714.15,
+                        "dias_predichos": 20,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    }
+                ],
+                "modelo_version": "v3.0-hibrido"
+            },
+            "resumen": {
+                "valor_total_estimado": 39202955.47448272,
+                "fuente": "predicciones_ml"
+            }
+        },
+        "mes_11": {
+            "mes": 11,
+            "nombre_mes": "November",
+            "datos_reales": {
+                "valor_ventas": 0,
+                "valor_cobrado": 0,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "tiene_datos": false
+            },
+            "predicciones": {
+                "valor_proyectado": 39202955.47448272,
+                "cantidad_predicciones": 81,
+                "errores": 0,
+                "detalle_predicciones": [
+                    {
+                        "cliente_id": 567,
+                        "cliente_nombre": "Sigma S.a.\t",
+                        "valor_estimado": 346800.0,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 246,
+                        "cliente_nombre": "METSO",
+                        "valor_estimado": 166113.0362659503,
+                        "dias_predichos": 25,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 283,
+                        "cliente_nombre": "PYC",
+                        "valor_estimado": 343505.2957746479,
+                        "dias_predichos": 16,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 334,
+                        "cliente_nombre": " SUEZ Medioambiente Chile S.A",
+                        "valor_estimado": 340171.4285714286,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 992,
+                        "cliente_nombre": "Escuela de Conductores San Andrés",
+                        "valor_estimado": 1833900.0,
+                        "dias_predichos": 15,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 137,
+                        "cliente_nombre": "CUMMINS",
+                        "valor_estimado": 538178.874015748,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 934,
+                        "cliente_nombre": "EPIROC CHILE",
+                        "valor_estimado": 280000.23529411765,
+                        "dias_predichos": 18,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 521,
+                        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+                        "valor_estimado": 971714.15,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    }
+                ],
+                "modelo_version": "v3.0-hibrido"
+            },
+            "resumen": {
+                "valor_total_estimado": 39202955.47448272,
+                "fuente": "predicciones_ml"
+            }
+        },
+        "mes_12": {
+            "mes": 12,
+            "nombre_mes": "December",
+            "datos_reales": {
+                "valor_ventas": 0,
+                "valor_cobrado": 0,
+                "cantidad_ventas": 0,
+                "cantidad_pagos": 0,
+                "tiene_datos": false
+            },
+            "predicciones": {
+                "valor_proyectado": 39202955.47448272,
+                "cantidad_predicciones": 81,
+                "errores": 0,
+                "detalle_predicciones": [
+                    {
+                        "cliente_id": 567,
+                        "cliente_nombre": "Sigma S.a.\t",
+                        "valor_estimado": 346800.0,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 246,
+                        "cliente_nombre": "METSO",
+                        "valor_estimado": 166113.0362659503,
+                        "dias_predichos": 25,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 283,
+                        "cliente_nombre": "PYC",
+                        "valor_estimado": 343505.2957746479,
+                        "dias_predichos": 16,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 334,
+                        "cliente_nombre": " SUEZ Medioambiente Chile S.A",
+                        "valor_estimado": 340171.4285714286,
+                        "dias_predichos": 21,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 992,
+                        "cliente_nombre": "Escuela de Conductores San Andrés",
+                        "valor_estimado": 1833900.0,
+                        "dias_predichos": 15,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 226,
+                        "cliente_nombre": "KOMATSU CHILE S.A",
+                        "valor_estimado": 581497.3221406086,
+                        "dias_predichos": 26,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": true
+                    },
+                    {
+                        "cliente_id": 137,
+                        "cliente_nombre": "CUMMINS",
+                        "valor_estimado": 538178.874015748,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 934,
+                        "cliente_nombre": "EPIROC CHILE",
+                        "valor_estimado": 280000.23529411765,
+                        "dias_predichos": 18,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    },
+                    {
+                        "cliente_id": 521,
+                        "cliente_nombre": "KDM INDUSTRIAL S.A.",
+                        "valor_estimado": 971714.15,
+                        "dias_predichos": 19,
+                        "nivel_riesgo": "🟢 MUY BAJO",
+                        "es_sence": false
+                    }
+                ],
+                "modelo_version": "v3.0-hibrido"
+            },
+            "resumen": {
+                "valor_total_estimado": 39202955.47448272,
+                "fuente": "predicciones_ml"
+            }
+        }
+    },
+    "recomendaciones": {
+        "precision": "Alta",
+        "confiabilidad": "Los datos históricos son definitivos. Las predicciones tienen un MAE de ~2.5 días.",
+        "uso_sugerido": "Ideal para planificación financiera y proyecciones de flujo de caja"
+    }
+}

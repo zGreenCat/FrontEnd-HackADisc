@@ -49,7 +49,10 @@ export class EstadisticaService {
     }
     if (ano === 2023){
       return this.http.get<any>('/assets/data/proyeccion_anual_2023.json');
-    } 
+    }
+    if (ano === 2026){
+      return this.http.get<any>('/assets/data/proyeccion_anual_2026.json');
+    }
     return this.http.get<any>('/assets/data/proyeccion_anual_2026.json');
   }
 }

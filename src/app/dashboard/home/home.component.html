@@ -81,7 +81,7 @@
           <option [value]="2023">2023</option>
           <option [value]="2024">2024</option>
           <option [value]="2025" selected>2025</option>
-          <option [value]="2025" selected>2026</option>
+          <option [value]="2026" >2026</option>
         </select>
         <canvas baseChart [data]="lineChartData" [options]="lineChartOptions" [type]="'line'"
           class="w-full h-64 max-h-64">
@@ -100,6 +100,15 @@
     </div>
 
     <div class="overflow-x-auto mb-6 rounded-lg border-b" #seccionTabla>
+      <div class="mb-4 flex justify-end">
+        <input
+          type="text"
+          placeholder="Buscar cliente..."
+          [(ngModel)]="terminoBusqueda"
+          (input)="filtrarClientes()"
+          class="px-3 py-1 border rounded w-64 text-sm"
+        />
+        </div>
       <table class="min-w-full text-sm text-center text-gray-700 border-separate border-spacing-0">
         <thead class="bg-azul text-white">
           <tr>
