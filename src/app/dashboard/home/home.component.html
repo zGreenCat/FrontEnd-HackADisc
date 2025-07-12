@@ -1,21 +1,21 @@
 <section class="bg-gray-100 min-h-screen ">
 
 
-  <button data-drawer-target="logo-sidebar" data-drawer-toggle="logo-sidebar" aria-controls="logo-sidebar" type="button"
-    class="inline-flex items-center p-2 mt-2 ms-3 text-sm text-gray-500 rounded-lg sm:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600">
-    <span class="sr-only">Open sidebar</span>
-    <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-      <path clip-rule="evenodd" fill-rule="evenodd"
-        d="M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm0 10.5a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10z">
-      </path>
-    </svg>
-  </button>
+  <button (click)="toggleSidebar()"
+   class=" toggle-btn fixed top-4 left-4 z-50 inline-flex items-center p-2 text-sm text-gray-500 rounded-lg sm:hidden bg-white shadow hover:bg-gray-100">
+  <span class="sr-only">Abrir menú</span>
+  <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
+     xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"></path>
+</svg>
 
-  <aside id="logo-sidebar"
-    class="fixed top-0 left-0 z-40 w-64 h-screen transition-transform -translate-x-full sm:translate-x-0"
-    aria-label="Sidebar">
+</button>
+ <aside [class.translate-x-0]="sidebarVisible " #sidebar
+       [class.-translate-x-full]="!sidebarVisible"
+       class="fixed top-0 left-0 z-40 w-64 h-screen transition-transform bg-azul sm:translate-x-0"
+       aria-label="Sidebar">
     <div class="h-full px-3 py-4 overflow-y-auto bg-azul">
-      <a href="https://flowbite.com/" class="flex items-center ps-2.5 mb-5">
+      <a href="/" class="flex items-center ps-2.5 mb-5">
         <img src="assets/images/Insecap_Logo-09.png" class="h-12 me-3 sm:h-12" alt="Flowbite Logo" />
         <span style="font-family: 'Monserrat', sans-serif;"
           class="self-center text-xl font-semibold whitespace-nowrap text-white dark:text-white">Insecap</span>
@@ -23,7 +23,7 @@
       <ul class="space-y-2 font-medium">
         <!-- Dashboard -->
         <li>
-          <a (click)="scrolAlHome()"
+          <a (click)="scrolAlHome(); sidebarVisible = false"
             class="flex items-center p-2 text-white rounded-lg hover:bg-blue-700 transition-colors">
             <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <path d="M10 2a1 1 0 00-.894.553L2.382 15H17.618L10.894 2.553A1 1 0 0010 2z"></path>
@@ -32,7 +32,7 @@
           </a>
         </li>
         <li>
-          <a (click)="scrollATabla()"
+          <a (click)="scrollATabla(); sidebarVisible = false"
             class="flex items-center p-2 text-white rounded-lg hover:bg-blue-700 transition-colors">
             <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -44,7 +44,7 @@
         </li>
         <!-- Reportes -->
         <li>
-          <a (click)="scrollAGraficos()"
+          <a (click)="scrollAGraficos(); sidebarVisible = false"
             class="flex items-center p-2 text-white rounded-lg hover:bg-blue-700 transition-colors">
             <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <path d="M3 3h14v14H3V3zm2 2v10h10V5H5z"></path>

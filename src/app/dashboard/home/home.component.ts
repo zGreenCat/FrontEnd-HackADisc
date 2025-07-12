@@ -1,4 +1,4 @@
-import { Component, inject, NgModule, ViewChild, ElementRef } from '@angular/core';
+import { Component, inject, NgModule, ViewChild, ElementRef,HostListener } from '@angular/core';
 import { ClientesService, ClienteTop } from '../../Services/Cliente.service';
 import { ClienteResumen } from '../../models/cliente.model';
 import { CommonModule, NgClass, NgFor, NgIf } from '@angular/common';
@@ -24,10 +24,12 @@ export interface VentasLider {
   styleUrl: './home.component.css',
 })
 export class HomeComponent {
+  constructor(private eRef: ElementRef) {}
   @ViewChild('seccionGraficos') seccionGraficos!: ElementRef;
   @ViewChild('seccionTabla') seccionTabla!: ElementRef;
   @ViewChild('seccionHome') seccionHome!: ElementRef;
   @ViewChild('seccionCliente') seccionCliente!: ElementRef;
+  @ViewChild('sidebar') sidebarRef!: ElementRef;
   scrollAGraficos() {
     this.seccionGraficos?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
@@ -39,6 +41,19 @@ export class HomeComponent {
   }
   scrollATabla() {
     this.seccionTabla?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  sidebarVisible = false;
+  toggleSidebar() {
+    this.sidebarVisible = !this.sidebarVisible;
+  }
+   @HostListener('document:click', ['$event'])
+  onDocumentClick(event: MouseEvent) {
+    const clickedInsideSidebar = this.sidebarRef?.nativeElement.contains(event.target);
+    const clickedToggleButton = (event.target as HTMLElement).closest('button')?.classList.contains('toggle-btn');
+
+    if (!clickedInsideSidebar && !clickedToggleButton) {
+      this.sidebarVisible = false;
+    }
   }
   private clienteService = inject(ClientesService);
   private estadisticasService = inject(EstadisticaService);
