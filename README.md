@@ -1,27 +1,133 @@
-# FrontHackadiscDash
+# HACKADISC - Frontend 
+---
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+## Descripción del Proyecto
 
-## Development server
+Este frontend implementa el **dashboard ejecutivo de HackADisc**, una solución visual desarrollada en Angular que permite analizar el comportamiento de pago de sus clientes a lo largo del ciclo de venta, facturación y cobro.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+El objetivo principal del dashboard es **proveer visualizaciones claras, filtrables e interactivas** que permitan tomar decisiones financieras informadas basadas en datos históricos y modelos predictivos procesados previamente.
 
-## Code scaffolding
+### Funcionalidades del frontend
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-  **Gráficos interactivos** que muestran:
+    - Tiempos promedio entre etapas del proceso de venta.
+    - Comparativas de pago entre clientes y líderes comerciales.
+    - Comparativas de ventas con Sence y sin.
+    - Proyección de pagos futuros según historial.
 
-## Build
+-  **Filtros dinámicos** para seleccionar:
+    - Cliente específico
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-  **Paneles de resumen** con métricas clave:
+    - Total vendido, cobrado y pendiente.
+    - Días promedio entre etapas.
+    - Cantidad de facturas por cliente.
 
-## Running unit tests
+-  **Diseño responsivo y modular**, optimizado para distintos dispositivos y escalable para incorporar nuevas visualizaciones.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Este dashboard es el principal punto de interacción para los usuarios de negocio y analistas, entregando una experiencia clara, ágil y centrada en la toma de decisiones.
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+##  Tech Stack
 
-## Further help
+- **Frontend**: Angular (vXX)  
+- **Estilos**: SCSS + Angular Material (o Tailwind, si aplica)  
+- **HTTP**: HttpClient + RxJS  
+- **Build y deploy**: Vercel / Angular CLI
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+##  Estructura del proyecto
+
+```txt
+/
+├── src/
+│   ├── app/
+        ├── dashboard/ # Página Principal
+            ├── home
+            ├── dashboard-routing
+            └── dashboard.module
+│   │   ├── services/       # Comunicación API
+│   │   └── models/         # Interfaces/DTOs
+├── assets/                 # Imágenes, logos, estilos globales, JSONS
+├── environments/           # Configuración dev/prod
+├── angular.json            # Configuración Angular CLI
+├── tsconfig.json           # Configuración TypeScript
+└── package.json            # Dependencias y scripts
+
+```
+##  Instalación local
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/zGreenCat/FrontEnd-HackADisc.git
+   cd FrontEnd-HackADisc
+   ```
+
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+
+3. Ejecuta en modo desarrollo:
+   ```bash
+   ng serve
+   ```
+
+   Abre `http://localhost:4200/home` en tu navegador.
+
+---
+
+##  Scripts disponibles
+
+| Comando              | Descripción                         |
+|----------------------|-------------------------------------|
+| `ng serve`           | Lanza app en modo desarrollo        |
+
+---
+
+## Roadmap
+
+### Implementado
+
+- Visualización de indicadores clave por cliente:
+  - Tiempo desde inicio de venta hasta pago
+  - Días promedio entre etapas (venta → factura → abono)
+- Comparativa por líder comercial
+- Diferenciación entre ventas con y sin SENCE
+- Proyección de pagos basada en historial
+- Panel de resumen con:
+  - Total vendido, cobrado y pendiente
+  - Cantidad de facturas por cliente
+- Diseño responsivo y estructura modular Angular
+- Consumo de archivos `.json` como fuente de datos estáticos
+
+### En desarrollo o futuros pasos
+
+- Integración con backend (API REST o modelo predictivo en producción)
+- Alerta o semáforo de riesgo de pago por cliente
+- Búsqueda global y filtrado por rango de fechas
+- Exportación de reportes (Excel/PDF)
+- Personalización de gráficos (selección de métricas, zoom, etc.)
+- Autenticación y control de acceso por roles (ejecutivo, analista)
+- Soporte multiempresa o multiárea
+- Hosting permanente + deploy automatizado (CI/CD)
+
+---
+
+##  Licencia
+
+**Desarrollado para HACKADISC 2025**
+
+*Sebastian Concha M. / ML Engineer*
+*Fernando Condori G. / Full Stack Developer*
+*Vicente Araya R. / Full Stack Developer*
+
+> Accede a la demo: [https://front-end-hack-a-disc.vercel.app/home](https://front-end-hack-a-disc.vercel.app/home)
+
+---
+
+
+
+
